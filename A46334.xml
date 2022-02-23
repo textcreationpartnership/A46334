@@ -1,0 +1,814 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some observations upon the life of Reginaldus Polus Cardinal of the royal bloud of England sent in a pacquet out of Wales, by G.L. gentleman, and servant to the late Majesty of Henrietta Maria of Bourbon, mother to the present King.</title>
+            <author>Joyner, William, 1622-1706.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 100 KB of XML-encoded text transcribed from 72 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46334</idno>
+            <idno type="STC">Wing J1160</idno>
+            <idno type="STC">ESTC R16025</idno>
+            <idno type="EEBO-CITATION">12724882</idno>
+            <idno type="OCLC">ocm 12724882</idno>
+            <idno type="VID">66307</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46334)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 66307)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 694:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some observations upon the life of Reginaldus Polus Cardinal of the royal bloud of England sent in a pacquet out of Wales, by G.L. gentleman, and servant to the late Majesty of Henrietta Maria of Bourbon, mother to the present King.</title>
+                  <author>Joyner, William, 1622-1706.</author>
+               </titleStmt>
+               <extent>142 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Mathew Turner ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First edition.</note>
+                  <note>Wing attributes authorship to William Joyner.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pole, Reginald, 1500-1558.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:66307:1"/>
+            <pb facs="tcp:66307:1" rendition="simple:additions"/>
+            <p>SOME OBSERVATIONS Upon the LIFE of <hi>Reginaldus Polus</hi> Cardinal OF THE Royal Bloud of <hi>England.</hi>
+            </p>
+            <p>Sent in a Pacquet out of <hi>Wales,</hi> By <hi>G. L.</hi> Gentleman, And Servant to the late MAJESTY of <hi>Henrietta Maria</hi> of <hi>Bourbon,</hi> Mother to the preſent KING.</p>
+            <q>
+               <p>—Majora canamus: Non omneis arbuſta juvant humileſque Myricoe.</p>
+               <bibl>
+                  <hi>Virg. Ecl. 4.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Mathew Turner</hi> at the <hi>Lamb</hi> in <hi>High-Holbourn,</hi> 1686.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:66307:2"/>
+            <pb n="3" facs="tcp:66307:2"/>
+            <head>EPISTLE To his Worthy Friend Mr. <hi>THEOPHILUS EVANS.</hi>
+            </head>
+            <p>THe different aſpect of Countries, whereſoever I travell'd, was ſtill grate<g ref="char:EOLhyphen"/>ful; and Nature, in her various formes and dreſſes, like ſo many diverſyfied ſcenes and repreſen<g ref="char:EOLhyphen"/>tations, alwayes pleaſed me; but never more, me thinks, than here in <hi>Wales:</hi> Where in a lofty and ſtately Situa<g ref="char:EOLhyphen"/>tion, having the Ocean on one ſide, and the flat Campagne on the other, ſhe ſeems, as it were, delighted in her ſelf, and to look about her with a ſort
+<pb n="4" facs="tcp:66307:3"/>of comely Majeſty. The rich and for<g ref="char:EOLhyphen"/>tile Vales, (as they call them) with their miſty exhalations, foggy vapours and fat offrings, had formerly, in<g ref="char:EOLhyphen"/>ſtead of feaſting me, only ſtupifyed with a lethargique dulneſs, my wit and ſenſes. Which here with the pure and ſubtil air of a ſupremour Region are reinvigorated: and enter<g ref="char:EOLhyphen"/>tain'd with ſo many various Objects of profitable uſe and meditation, that I cannot well expreſs them. The low, flat, pastoral Country, which I lately left, ſeems now to my imagina<g ref="char:EOLhyphen"/>tion like ſome calm, dead water; than which, nothing is more odious or tire<g ref="char:EOLhyphen"/>ſome to an active ſturdy Veſſel: which ever beſt appears in a proud, imperi<g ref="char:EOLhyphen"/>ous and tempestuous Sea. Which kind of pompous and majeſtic aſpect, I, methinks, at this preſent enjoy among
+<pb n="5" facs="tcp:66307:3"/>theſe lofty Mountains; Not to be conſider'd without ſome excellent re<g ref="char:EOLhyphen"/>marks. For the ſtrange precipitation of waters, in vaſt currents, from ſuch places not over-topt by others, is to be admired as ſcarcely comprehen<g ref="char:EOLhyphen"/>ſible. So that the artificial caſcades of <hi>Ruelle</hi> and <hi>Verſailles</hi> are but faint ſhews and ſhadows compar'd to theſe impetuous and natural Cataracts. Beſides, their exceſſive latitude con<g ref="char:EOLhyphen"/>futes and destroyes the earths Eter<g ref="char:EOLhyphen"/>nity, aſſerted by the perverſity of ſome Philoſophers. Which otherwiſe at this time could not appear in ſo unlevel'd a poſture, though the ſubſtance of theſe Mountains had been adamantine.</p>
+            <p>Sir, I was delighted, with a kind of raviſhment, in the midſt of ſuch pleaſant thoughts, which your laſt Letter, on a ſudden, has utterly di<g ref="char:EOLhyphen"/>ſperſt,
+<pb n="6" facs="tcp:66307:4"/>and left me in a mourning ſo<g ref="char:EOLhyphen"/>litude. For, the good old Knight you ſay, is irrefragable, and earnestly in<g ref="char:EOLhyphen"/>ſists upon ſome ſpeedy Accompliſhment of what I once promiſed concerning <hi>Reginaldus Polus.</hi> To whom, I hear, he has ſome remote Relation, by reaſon of the Princely Bloud of <hi>Wales</hi> being commixt with that of the Royal Line in him. 'Tis ſtrange, a perſon ſo generous, ſo remiſs, ſo indulgent amongst his Tenants, ſhould be ſo ſevere and rigorous to me; and that no confeſſion of a debt ſhould avail without immediate payment: Eſpecially where he knows ſuch occur<g ref="char:EOLhyphen"/>ring difficulties, which by ſuch weak undertakers as my ſelf, cannot be overcome. He thinks it, perchance, a prone and eaſie matter, with ad<g ref="char:EOLhyphen"/>vantagious language, to reduce this
+<pb n="7" facs="tcp:66307:4"/>noble Of ſpring of the <hi>Royal Fa<g ref="char:EOLhyphen"/>mily</hi> into favour again among his Compatriots; not conſidering the pre<g ref="char:EOLhyphen"/>ſent poſture of the times, where the hearts and minds of people are in that high, violent and malignant fermen<g ref="char:EOLhyphen"/>mentation, which no rational, perſwa<g ref="char:EOLhyphen"/>ſive Diſcourſe can mitigate or reduce to any moderation: Where the in<g ref="char:EOLhyphen"/>genuous, candid, <hi>Loyal Proteſtant</hi> paſſes for a manifest <hi>Papiſt;</hi> though the Religion of the latter, (wherein their forefathers were regenerated) be now more odious among them, than the Saracenical, or any ſort of Paganiſm. So that an Eſſay herein, is not, as he eſteems it, alike as to commend the Athenian <hi>Socrates</hi> at <hi>Athens,</hi> among perſons thus former<g ref="char:EOLhyphen"/>ly ſeduc'd with falſe principles, falſe hiſtories, falſe doctrines, and ſtill
+<pb n="8" facs="tcp:66307:5"/>infeſted with the ſame prejudice and paſſions from thence reſulting: but rather almoſt of the ſame nature with the undertaking, to have plauſibly commended the Major African <hi>Scipio</hi> in the old <hi>Carthage,</hi> or <hi>Hannibal</hi> at <hi>Rome.</hi> However, you tell me, that he ſayes for my comfort, if I write ill, I ſhall be in the Mode and Fa<g ref="char:EOLhyphen"/>ſhion; if Well, it will be Recommen<g ref="char:EOLhyphen"/>dable: And how noble the attempt alone will be to reſtore the memory of this Perſon, who was the honour of our Nation, and the Age wherein he lived; when <hi>Tully</hi> ſo glorifies himſelf in recovering the very Tomb ſtone only of the great <hi>Archimedes.</hi> All this only tends to the ſame purpoſe, of lea<g ref="char:EOLhyphen"/>ving no eſcape or ſubterfuge, but forcing me to write ſome rhapſodous Diſcourſe: Which is all I can per<g ref="char:EOLhyphen"/>form,
+<pb n="9" facs="tcp:66307:5"/>and will never ſatisfie his cri<g ref="char:EOLhyphen"/>tical Judgment.</p>
+            <p>Had I any dexterity for this Task, I ſhould need no ſpur or invitation.</p>
+            <p>For this Cardinal has been along time the only Object of my Affection and Admiration. My volatile Fancy, which every where elſe is quickly tyred, can only here inſiſt, repoſe and dwell. He is my <hi>Socrates,</hi> my <hi>Ariſtides,</hi> my Eaſtern and Weſtern <hi>Gregory</hi> the great.</p>
+            <p>But having mentioned the former of theſe perſons, I muſt add, That he is not only mine, but the Roman <hi>So<g ref="char:EOLhyphen"/>crates,</hi> and that, in an Age, which the <hi>Italians</hi> place in parallel and com<g ref="char:EOLhyphen"/>petition with that of <hi>Auguſtus</hi> in point of Wit and Learning. Thoſe rare examples of a ſublime Vertue, and Chriſtian Piety, as Cardinal
+<pb n="10" facs="tcp:66307:6"/>
+               <hi>Borromeus,</hi> and others, which fol<g ref="char:EOLhyphen"/>lowed after, they confeſſedly owe to him, as the Reformator of Religion and the Age.</p>
+            <p>Theſe conſiderations, as they in<g ref="char:EOLhyphen"/>cite my Affection, ſo they deter my Modeſty: Eſpecially when I look upon him, as an Object of ſuch diverſe Qualities, and ſo various Dimenſions, which afford no certain limits of Mo<g ref="char:EOLhyphen"/>dification. For ſometimes his Devo<g ref="char:EOLhyphen"/>tion impriſons him like an Hermite in a Cell; ſometimes ſome other qua<g ref="char:EOLhyphen"/>lities encloſe him in the Cabinet-Coun<g ref="char:EOLhyphen"/>cils of Princes; at other times he is at a more large reſtraint in his Study, like an elegant Writer, ſubtile Philoſo<g ref="char:EOLhyphen"/>pher, and profound Divine: And ſometimes again, I find him ſo wholly inconfin'd, and expos'd to the Sun and Air, as they call it, that no perſon
+<pb n="11" facs="tcp:66307:6"/>was ever employ'd in more different Embaſſies, or of higher Nature, and betwixt the greateſt Princes, that in theſe many hundred years have ap<g ref="char:EOLhyphen"/>pear'd on the ſtage of humane Af<g ref="char:EOLhyphen"/>fairs. But, methinks, the chief ſcene of the ſplendid and glorious part of His Life, was at the open<g ref="char:EOLhyphen"/>ing the oecumenical Council of <hi>Trent:</hi> where, as firſt Legate, he had a rare occaſion to ſhine, and appear in that ample Poſture, which became his di<g ref="char:EOLhyphen"/>vine Perſon, his Royal Extraction and his admirable Elocution. Where I ſhall at this time abruptly leave him, in complyance of our noble Friends re<g ref="char:EOLhyphen"/>queſt, to prepare for the next Pac<g ref="char:EOLhyphen"/>quet, the Preface to his Life, as it is in <hi>Italian, Latin,</hi> and now very common in <hi>French.</hi>
+            </p>
+            <pb facs="tcp:66307:7"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div type="biography">
+               <pb n="13" facs="tcp:66307:7"/>
+               <head>PREFACE.</head>
+               <p>THE real paſſages of this piece are various, like thoſe of a well-contiv'd Poem, intermixt with ſurpriſing accidents, ſometimes pleaſant, ſometimes horrid, and at laſt ending in a ſtrange cata<g ref="char:EOLhyphen"/>ſtrophe. Than which, as the Critiques ſay, nothing can be more agreeable to an inconcer<g ref="char:EOLhyphen"/>ned Reader. Of which conditi<g ref="char:EOLhyphen"/>on, I preſume moſt are in this diſtance of time. The Author is one <hi>Ludovico Beccatelli</hi> an <hi>Itali<g ref="char:EOLhyphen"/>an,</hi> ſometimes domeſtique of this great perſon, and afterward ad<g ref="char:EOLhyphen"/>vanced
+<pb n="14" facs="tcp:66307:8"/>to the Archbiſhoprick of <hi>Rhaguſe</hi> for his rare piety and learning. Which latter partly ap<g ref="char:EOLhyphen"/>pears in the artifice of this wri<g ref="char:EOLhyphen"/>ting, wherein he has us'd a na<g ref="char:EOLhyphen"/>tive, graceful and perſpicuous eloquence, becoming the learn<g ref="char:EOLhyphen"/>ed age and place wherein he lived. From which our times, with their ſtudyed follies and af<g ref="char:EOLhyphen"/>fectations, have much degenera<g ref="char:EOLhyphen"/>ted. There is not ſeen the leaſt mention of him among our Wri<g ref="char:EOLhyphen"/>ters, in recogniſance of this great benefit, and our national obliga<g ref="char:EOLhyphen"/>tion. However, as it happens in thoſe vertues which reward themſelves, in the choice excel<g ref="char:EOLhyphen"/>lency of his Subject he has not only given, but received alſo a never dying memory. I am ſor<g ref="char:EOLhyphen"/>ry,
+<pb n="15" facs="tcp:66307:8"/>I can ſay nothing elſe, ſave only that I find every where ho<g ref="char:EOLhyphen"/>norable mention of him among the forrain writers. We owe in<g ref="char:EOLhyphen"/>tirely to him, what we have of the pretious remains of this per<g ref="char:EOLhyphen"/>ſon: his very aſhes as I think, in the foul ſacrilege committed in our times at <hi>Canterbury,</hi> being ſa<g ref="char:EOLhyphen"/>crific'd to the winds. For our late brethren ſpared neither King nor Prieſt in the fury of their zealous preaching &amp; proceeding. Though this age, like ſome others, be peſter'd with ſwarms of writers, yet 'tis prudently obſerv'd by my Lord <hi>Bacon</hi> and others, that there have been ever too few of this nature. Which whether it hap<g ref="char:EOLhyphen"/>pen out of the ſcarcety of ſub<g ref="char:EOLhyphen"/>jects, or difficulty to expreſs them,
+<pb n="16" facs="tcp:66307:9"/>I cannot tell. But 'tis certain, there is nothing more properly conducing to human happines. The way to which, though this preaching age may perchance deny it, being neither ſo certain or compendious by precepts, as great examples in this kind, which not only inſtruct, but al<g ref="char:EOLhyphen"/>ſo animate us at the ſame time. But where to find them, and af<g ref="char:EOLhyphen"/>ter to illuſtrate them is a taſque of much difficulty. Which I per<g ref="char:EOLhyphen"/>ceive in the caſe of our noble Au<g ref="char:EOLhyphen"/>thor, who though he brought an eloquence proportionat to the ſingular affection, he had for his ſubject: Yet I find him ſuccum<g ref="char:EOLhyphen"/>bent, and, as it were, oppreſt with the weight of it. The di<g ref="char:EOLhyphen"/>vine pencil of <hi>Plato</hi> has ſet forth
+<pb n="17" facs="tcp:66307:9"/>
+                  <hi>Socrates</hi> with what exquiſitnes, art or wit could contribut: Yet we imagine ſomething much a<g ref="char:EOLhyphen"/>bove what we read of him. So our fancy muſt aſſiſt us in form<g ref="char:EOLhyphen"/>ing the idea of this great Cardi<g ref="char:EOLhyphen"/>nal, who crown'd all thoſe ad<g ref="char:EOLhyphen"/>mired vertues of the other with a ſupream and Chriſtian perfecti<g ref="char:EOLhyphen"/>on. In expreſſing ſhapes of ſin<g ref="char:EOLhyphen"/>gular beauty, and of ſome lumi<g ref="char:EOLhyphen"/>nous objects, the art is often more deficient then the painter, too much light, which will not be confin'd, cauſing in him an obſcure confuſion: which hap<g ref="char:EOLhyphen"/>pens in the ſame faſhion to a wri<g ref="char:EOLhyphen"/>ter from the reſulting ſplendor of an eminent worth and vertue: which if ever appeared in a cor<g ref="char:EOLhyphen"/>poreal ſhape, as the antients diſ<g ref="char:EOLhyphen"/>courſe,
+<pb n="18" facs="tcp:66307:10"/>certainly it was in the rare perſon of this Cardinal. As we may ſee by the powerful at<g ref="char:EOLhyphen"/>traction and ſtrange effects of thoſe divine rayes which enlight<g ref="char:EOLhyphen"/>ned him; and not only ſurpriz'd ſuch perſons who approacht him, but drew others out of remote parts into <hi>Italy.</hi> Where they were not only captivated, but detain'd in a manner, I think, unknown to all antiquity. But, what ſeems incredible, <hi>Italians</hi> of nobleſt quality left their own Country, rich relations and all temporal reſpects to come into a northern climat, where they were ſure to be incumber'd with various infirmities and troubles, beſides the diſaffection and ha<g ref="char:EOLhyphen"/>tred of the people. But all this
+<pb n="19" facs="tcp:66307:10"/>was more than recompenſt in the conſtant fruition of his charm<g ref="char:EOLhyphen"/>ing aſpect, diſcourſe and com<g ref="char:EOLhyphen"/>pany: whom I percieve they would have follow'd to the very <hi>Antipodes,</hi> or where ever he ſhould be: For among the ſect (as I may call them) of his friends and followers I find thoſe moſt troubled, who ſurviv'd him. As they found the firſt and choiceſt fruit of life in the enjoyment of him; ſo death it ſelf could pre<g ref="char:EOLhyphen"/>ſent nothing ſo dark or terrible as a ſeparation and deprivance of him. And yet moſt of theſe per<g ref="char:EOLhyphen"/>ſons were neither of <hi>pedantique</hi> or <hi>monaſtique</hi> humor, but of no<g ref="char:EOLhyphen"/>ble extraction and education, and of that Country, whoſe greateſt ſtain is, to breed up minds
+<pb n="20" facs="tcp:66307:11"/>too much addicted to temporal reſpects and intereſt. But to con<g ref="char:EOLhyphen"/>ſider what qualities wrought theſe wonders, let us in ſhort ſurvay him, and firſt externally, obſerving his extraction from the Houſes of <hi>York</hi> and <hi>Lancaster,</hi> which produc't the comlieſt and the greateſt Princes of thoſe times. Which rare advantage he made uſe of in the cultivating his mind, as other Princes in neglecting this principal part in them, through the falſe doctrine and inſinuati<g ref="char:EOLhyphen"/>on of flatterers. From the practi<g ref="char:EOLhyphen"/>ces of which ſort of domeſtique cattle, that he might be entirely freed, he early paſt the Seas, ſubmitting himſelf to the inſtitu<g ref="char:EOLhyphen"/>tion of the beſt Maſters of <hi>Italy.</hi> Under whom though his natural
+<pb n="21" facs="tcp:66307:11"/>wit was much admired; yet it was alwayes ſurpaſt by his ſingu<g ref="char:EOLhyphen"/>lar induſtry; ſo that his progreſs in learning was ſtupendious. But that which moſt ſurpriz'd the ju<g ref="char:EOLhyphen"/>dicious, was to ſee a perſon of ſo high bloud, in the heat of youth and at his own diſpoſal, which all ſeems invitations to corrupti<g ref="char:EOLhyphen"/>on, to keep himſelf pure, chaſt, and unſtained from all vice, and beſides exempted from all thoſe diſordinate affections and paſſi<g ref="char:EOLhyphen"/>ons which ſo incommodate our human natures. Which effects though ſome may enviouſly im<g ref="char:EOLhyphen"/>pute to a ſtupid heavines of diſ<g ref="char:EOLhyphen"/>poſition: yet this can have no place here in a perſon of a ſan<g ref="char:EOLhyphen"/>guine complexion, vigorous health, and ſuch a ſingular viva<g ref="char:EOLhyphen"/>city
+<pb n="22" facs="tcp:66307:12"/>of wit and ſpirit. They are rather to be aſcrib'd to the free election of his noble mind, and the known domeſtique valor of his family, which he a perſon of the <hi>long robe</hi> ſhew'd in this trampling all vices and paſſions under foot; and ſo according to the rule of nature and religion keeping original ſlaves in a con<g ref="char:EOLhyphen"/>tinual vaſſalage. The antients obſerv'd two ſort of vertues, wherein we chiefly approach our celeſtial origine; the one contem<g ref="char:EOLhyphen"/>plative in matters moſt worthy of human knowledge; the other conſiſting in actions chiefly con<g ref="char:EOLhyphen"/>ducing to the general good. In <hi>Polus</hi> we find a rare commixture in this kind, and all the moments of his life thus happily divided.
+<pb n="23" facs="tcp:66307:12"/>As if from his infancy he had propos'd this the univerſal ſcope of his intentions, in which con<g ref="char:EOLhyphen"/>ſiſts the Soverain perfection: to which ſo few in all Ages have arriv'd. For as the fineſt earth cultivated with skilful hands and choiceſt ſeeds, ſcarce ever produces fruits without ſome in<g ref="char:EOLhyphen"/>termingled weeds: So the ſin<g ref="char:EOLhyphen"/>gular excellency of nature and education ſeldom exempts us from all ſorts of imperfections. Yet no defect has hitherto bin ob<g ref="char:EOLhyphen"/>ſerv'd in the life or actions of this Cardinal, expos'd in ſo much light to the curious inquiſition of ſo many nations: which ad<g ref="char:EOLhyphen"/>vantage we owe to his exile and memorable proſcription. The confines of our Iland were too
+<pb n="24" facs="tcp:66307:13"/>narrow a ſpace for ſo ſublime and boundles a vertue. So that fortune herein ſeem'd to prepare him the nobleſt Theatre of the Univerſe, for his rare eloquence, erudition, and other eminent qualities to appear in a fit luſtre for the benefit of mankind. Which being compos'd of ſeveral and oppoſite tempers, could never from one example draw ſo vari<g ref="char:EOLhyphen"/>ous and manifold advantages. For no excellent qualities though incompatible in themſelves found any diſcord in him, as magnanimity and humility, for<g ref="char:EOLhyphen"/>titude and modeſty, frugality and magnificence; in fine, ſuch a tenor of mind, that 'tis unknown with what fortune moſt ſuitable. For at all times I remarque in him
+<pb n="25" facs="tcp:66307:13"/>a conſtant ſerenity, like that of the ethereal region, unalter'd with any aſpiring vapors of am<g ref="char:EOLhyphen"/>bition or dejecting clouds of ad<g ref="char:EOLhyphen"/>verſity. When a price was ſet upon his head, and the curſed undertakers provided; and the Earth conſcious of the future loſs ſeem'd, as it were, to tremble at the horror of the act, he himſelf reſted, with a ſtupendious indif<g ref="char:EOLhyphen"/>ferency, wholy inconvern'd. What ſo honorable, ſo glorious a pre<g ref="char:EOLhyphen"/>ſent can Heaven or fortune be<g ref="char:EOLhyphen"/>ſtow on us like a Principality, eſpecialy where the votes and ſuffrages are free? yet <hi>Polus</hi> re<g ref="char:EOLhyphen"/>fus'd this, profer'd to him by a Senate of Princes, or at leaſt the greateſt men that ever appear'd ſince, in that place. Beſides he
+<pb n="26" facs="tcp:66307:14"/>was at that time in want, in ex<g ref="char:EOLhyphen"/>ile, deveſted of his total patri<g ref="char:EOLhyphen"/>mony; and had only received this, as the juſt and innocent ac<g ref="char:EOLhyphen"/>quiſition of his merit, ſuperior to any of that age, though fer<g ref="char:EOLhyphen"/>tile in great perſons. When I conſider the circumſtances here<g ref="char:EOLhyphen"/>in, this ſeems to me an act of a no<g ref="char:EOLhyphen"/>bler temper &amp; elevation of Spirit, then what I have ever read. But to be ſhort, there is no vertue in<g ref="char:EOLhyphen"/>tellectual, moral or Chriſtian, to which at his birth he ſeems not to have had a rare diſpoſition, and in proceſs of time perfect<g ref="char:EOLhyphen"/>ly habituated. If it be thus, ſome will ask, why his memo<g ref="char:EOLhyphen"/>ry thus long lies inter'd with his aſhes. I anſwer, becauſe the popular judgment in <hi>England</hi> has
+<pb n="27" facs="tcp:66307:14"/>bin a long time ſtrangely cor<g ref="char:EOLhyphen"/>rupted by ſome <hi>Demagogues.</hi> So that they have bin very ill eſteemers of the worth of great perſons<g ref="char:punc">▪</g> eſpecially thoſe of the Royal Bloud. Which that we may ſufficiently demonſtrate, let us conſider ſome occurrents in the late head of his Family, be<g ref="char:EOLhyphen"/>cauſe paſſages are freſh, and not yet, as the faſhion is, hi<g ref="char:EOLhyphen"/>ſtoricaly corrupted. If his royal birth and fortune had not caſt a crown upon him, his rare en<g ref="char:EOLhyphen"/>dowments of mind and body, and excellent vertues might have challeng'd it in a popular or ariſtocratical election. To which I chiefly attribute his ruine, by the rule of contraries; as being directly oppoſite to the hypo<g ref="char:EOLhyphen"/>critical
+<pb n="28" facs="tcp:66307:15"/>and vitious manners of the times. We hear of no Prince perſecuted with ſo violent and obſtinate a hatred by his im<g ref="char:EOLhyphen"/>placable adverſaries. Who in their impious deſignes could be prevented with no kind of anticipating oaths; nor repreſt with any humane, natural or divine obligations. Nay, but the laſt preparative of a volun<g ref="char:EOLhyphen"/>tary perjury invented to accom<g ref="char:EOLhyphen"/>pliſh his deſtruction, exceeds all imagination. For who could fancy in his thoughts a ſort of creatures viſibly ſtampt with the impreſſion of humane form, who juſt before the robbery, ſhould voluntarily enter into a ſolemn league to preſerve the perſon, whom they deſtin'd to
+<pb n="29" facs="tcp:66307:15"/>utter ruine; a pactiſe unheard of till this latter Age. I ſpeak this becauſe ſome regarders of events, have ſuſpected ſome human deficiency in the <hi>King</hi> to have expos'd him thus to Fortune and his Enemies which is a manifeſt error, for he had both the moral and politique Virtues of an Excel<g ref="char:EOLhyphen"/>lent Prince and that in no mean degree. But how could he, (conſcious of his own worth, and high meriting of the publick) imagine the future Eruption of that Villany in his dayes, which never ſhew'd it ſelf in the world before? Some have brought in Religion, as a principle actor on the ſcene of theſe affairs: but the error is eaſily diſcoverable, and the grounds of ſuch diſcourſe will
+<pb n="30" facs="tcp:66307:16"/>be found fallacious. Unles we miſtake a profound hypocriſy, or a volatile religion, changeable with the humour of fickle times, for a ſerious profeſſion of faith. The truth of this aſſertion, though to ſome ſtrange at firſt, will ma<g ref="char:EOLhyphen"/>nifeſtly appear; if we conſider, how the old Proteſtant and Ro<g ref="char:EOLhyphen"/>man Catholic were the onely Chriſtian Religions, which ever this Nation publickly embrac't. Now in theſe different profeſ<g ref="char:EOLhyphen"/>ſions their late Majeſties were as ſincerely zealous, as in their mu<g ref="char:EOLhyphen"/>tual affections. So that both par<g ref="char:EOLhyphen"/>ties boaſt of them as admirable examples in different kinds. Yet tis not known, which was the greater object of hatred to the ſame enemies. For though the
+<pb n="31" facs="tcp:66307:16"/>Queen eſcapt the publique ſcaf<g ref="char:EOLhyphen"/>fold, yet perchance 'twas through her flight and exile. For after declaring her a Traytor, they barbarouſly ſought to tare her in pieces with their canon at <hi>Bur<g ref="char:EOLhyphen"/>lington,</hi> without al reſpect due to her birth, or very ſex. Now in the mention'd caſe of religion, and not rather mutual excelen<g ref="char:EOLhyphen"/>cy in vertu, theſe occurrencies could not have hapend, for o<g ref="char:EOLhyphen"/>therwiſe hatred on the one ſide muſt with a neceſſary ſub-alter<g ref="char:EOLhyphen"/>nation have encreaſt affection on the other. 'Tis not to be wonderd therefore, if the ſame cauſes have bin prejudicial to the reputation due to the memory of this <hi>Reginaldus Polus.</hi> Among whoſe other vertues a clear, con<g ref="char:EOLhyphen"/>ſtant
+<pb n="32" facs="tcp:66307:17"/>ſincerity of mind was the leaſt obſervable, becauſe this, with many other excelent qua<g ref="char:EOLhyphen"/>lities, was formerly habitual to the nation. Nature was ob<g ref="char:EOLhyphen"/>ſerv'd to imprint an ingenuous candor in our looks, uniform to that of our hearts.</p>
+               <p>At the firſt appearance of the <hi>Engliſh</hi> beyond the <hi>Alpes,</hi> the <hi>Ita<g ref="char:EOLhyphen"/>lians</hi> deriv'd the name <hi>Angli</hi> from their angelical aſpects. To which, the frank ſincere inte<g ref="char:EOLhyphen"/>grity of their minds was cor<g ref="char:EOLhyphen"/>reſpondent. Hence proceeded that mutual love and generous hoſpitality unknown to other nations. So that whoever in<g ref="char:EOLhyphen"/>form'd with this notion had ar<g ref="char:EOLhyphen"/>riv'd among us in the late times, would certainly have thought
+<pb n="33" facs="tcp:66307:17"/>our iland had bin abſorpt (as 'tis ſaid of one of the <hi>Cyclades</hi>) and a new <hi>England</hi> ſtarted up in the room. For inſted of Monar<g ref="char:EOLhyphen"/>chie, he would have found a wild anarchie ſpiritual and tem<g ref="char:EOLhyphen"/>poral, the preachers being ſcarce diſtinguiſht by ſexes; inſted of ſincerity, perfidiouſnes; of hoſ<g ref="char:EOLhyphen"/>pitality, treachery; of faith, per<g ref="char:EOLhyphen"/>jury: inſted of religion, a ſacri<g ref="char:EOLhyphen"/>legious ſuperſtition; and inſted of thoſe above-mention'd looks, a cloudy forehead, diſtorted eyes, with a worſe diſtorted heart, from al the courſes of equity, juſtice, and honor. We owe the original cauſe of theſe changes to hypocriſy, tranſplan<g ref="char:EOLhyphen"/>ted hither from forrain parts, where I am ſorry the ſoil has
+<pb n="34" facs="tcp:66307:18"/>prov'd ſo fertile. For nothing ſooner induces, as we have ſeen by the ſudden improvement, atheiſtical impietie. This was the ſecret engine, by which at firſt the ruin of the beſt of Princes was procur'd, and then his murder; and afterward a <hi>Hydra</hi> ſet up in his place, and at laſt a <hi>Barabbas</hi> to ſhew and make manifeſt in al faſhions, that the true Anointed, and a Man according to God's heart, could not be according to the hearts of theſe people. Al theſe vile, wicked, and curſed practi<g ref="char:EOLhyphen"/>ces were follow'd with ſuch a confirm'd, publique and obſtinat impenitence, that it raiſes at pre<g ref="char:EOLhyphen"/>ſent horror and amazement, not onely in al ſober Chriſtians, but
+<pb n="35" facs="tcp:66307:18"/>al others, who have not clearly deveſted themſelves of their hu<g ref="char:EOLhyphen"/>manitie.</p>
+               <p>The <hi>Engliſh</hi> nature and diſpo<g ref="char:EOLhyphen"/>ſition in it ſelf certainly excels that of moſt nations, as being capable of al ſciences, and more eaſily applicable to that ſort of vertu and piety, wherein others find much reluctance. But there is no temper, which by falſe opi<g ref="char:EOLhyphen"/>nions, eſpecialy in religion (which ſwarmd here in the royal abſence) by education and diſci<g ref="char:EOLhyphen"/>pline wil not be corrupted. Hence it is that the noble actions and monuments of magnificent Foun<g ref="char:EOLhyphen"/>ders and Benefactors have not onely bin defac'd, but defam'd among us by an ingrateful poſte<g ref="char:EOLhyphen"/>rity. Which has bin alike inju<g ref="char:EOLhyphen"/>rious
+<pb n="36" facs="tcp:66307:19"/>to the moſt illuſtrious emi<g ref="char:EOLhyphen"/>nence of this <hi>Riginaldus Polus,</hi> but with leſs effect, his reputa<g ref="char:EOLhyphen"/>tion ſoaring in another region, a<g ref="char:EOLhyphen"/>bove the reach of their Malice. For our ſuburbian <hi>Chronicles</hi> allow him no other attribute, than that of a barbarian, a monſter, and idolater. Sure 'tis with the pub<g ref="char:EOLhyphen"/>lique damage of the Country, that ſuch mechanique ſpirits ſhould be thus the judges and diſpoſers of the price of merit in noble men. But ſince the diſorder is ſuch, and they have ac<g ref="char:EOLhyphen"/>quir'd general reputation among no vulgar perſons, I cannot paſs them over with that ſcornful neglect, which they deſerve, without ſome prejudice to that of the royal family, and the ge<g ref="char:EOLhyphen"/>neral
+<pb n="37" facs="tcp:66307:19"/>honor of our Country con<g ref="char:EOLhyphen"/>cern'd herein. In oppoſition therefore to their abuſes, out of many, I ſhal produce ſome few teſtimonies; which I deſire may be perus'd circumſtantialy in the greatnes of the perſons, and as the effects of no flatery or inte<g ref="char:EOLhyphen"/>reſt, being chiefly after death, with ſuch profuſion of praiſes, from a nation ſo jealous and cautiouſly abſtemious in this kind to al ſtrangers, beſides himſelf.</p>
+               <floatingText type="letter">
+                  <body>
+                     <head>
+                        <bibl>Ex <hi>Pauli</hi> manutii Epiſt. a Pium quartum e Medicea familia Principem.</bibl>
+                     </head>
+                     <p>Quae cum per ſe maxima ſunt, &amp; curandis Chriſtianae Rei<g ref="char:EOLhyphen"/>pub. vulneribus utiliſſima; tum verò ponderis accedit plurimum ab exi<g ref="char:EOLhyphen"/>miâ
+<pb n="38" facs="tcp:66307:20"/>ſcriptoris innocentia, doctrina, dignitate. Quis enim quibus animi bo<g ref="char:EOLhyphen"/>nis, quibus induſtriae ingenii<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> orna<g ref="char:EOLhyphen"/>mentis abundaverit, qui deni<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> vir, quantuſ<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> fuerit <hi>Reginaldus Polus,</hi> aut ignorat; aut ſi quam modo tan<g ref="char:EOLhyphen"/>tarum laudum partem habet cogni<g ref="char:EOLhyphen"/>tam, non earum memoria, &amp; deſi<g ref="char:EOLhyphen"/>derio vehementer commovetur. Po<g ref="char:EOLhyphen"/>testne quiſquam tam inops a judi<g ref="char:EOLhyphen"/>cio, tam averſus ab humanitate, tam plane ferus eſſe ac ferreus, qui non intimis eum ſenſibus dilexerit. Cu<g ref="char:EOLhyphen"/>jus non modo in ſtudiis, in moribus, in ſermonibus, ſed in ipſo plane aſ<g ref="char:EOLhyphen"/>pectu omnis probitas, omnis luceret bumanitas. De religione verò, deque Chriſtiani hominis officio quid ſenſe<g ref="char:EOLhyphen"/>rit, &amp; judicarit, non aut in uno al<g ref="char:EOLhyphen"/>teróve libro ita oſtendit, ut in aliis unquam diſſenſerit: aut ita ſcripſit,
+<pb n="39" facs="tcp:66307:20"/>ut aliter viveret, aut ita vixit, ut interdum ſibi non conſtaret. Sed om<g ref="char:EOLhyphen"/>nia literis ab illo prodita, ſine ulla ex<g ref="char:EOLhyphen"/>ceptione ſemper laudarunt, hodie<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> laudant boni, &amp; ſapientes viri; quo<g ref="char:EOLhyphen"/>rum directa ad verit atem ipſam, id eſt, ad unam Dei gloriam ſententia nec obtrectandi ſtudio, aut invidia flectitur, nec malevolentiâ, aut am<g ref="char:EOLhyphen"/>bitione mutatur. Vitae vero totius in<g ref="char:EOLhyphen"/>ſtituta, &amp; excellentem in omni actio<g ref="char:EOLhyphen"/>ne, omni<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> fortunâ pietatem, utinam quam facile noverunt, tam libenter imitarentur multi. Opes, honores, clientelas, Regum maximorum gra<g ref="char:EOLhyphen"/>tiam &amp; benevolentiam qui aſſequun<g ref="char:EOLhyphen"/>tur, proxime ad felicitatem putantur accedere. At ille haec omnia apud <hi>Henricum Britaniae</hi> Regem, &amp; jure propinquitatis, &amp; multo etiam magis ſua virtute cum poſſideret,
+<pb n="40" facs="tcp:66307:21"/>ultrò contempſit, ne turpiſſimas Re<g ref="char:EOLhyphen"/>gis actiones, &amp; adverſantem Chriſti Vicario ſententiam probare, aut etiam adjuvare cogeretur. Patavii diu vixit, quanquam erat habitu naturae prope divino, liberalibus tamen diſ<g ref="char:EOLhyphen"/>ciplinis vehementer deditus: Et cum eloquentiae at<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> philoſophiae pari ſtudio flagraverit, in utra tamen magis enituerit, non facile eſt exiſtimare. Illud certe conſtat, qui vel meliora, vel ornatiora ſcriberet, hâc hominum memoriâ extitiſſe neminem. Quan<g ref="char:EOLhyphen"/>quam id ei propoſitum fuit, eo di<g ref="char:EOLhyphen"/>rexit cogitationes omnes, at<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> curas, ut philoſophiae ſcientiam non tam ſcrip<g ref="char:EOLhyphen"/>tis, quàm vitâ oſtenderet. Ita<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> ma<g ref="char:EOLhyphen"/>jor at<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> excelſior Patavii in tenui &amp; humili fortunâ fuit, quam cum in regno omnibus copiis, &amp; ipſius maxi<g ref="char:EOLhyphen"/>me regis gratia floreret. Hic nimi<g ref="char:EOLhyphen"/>rum
+<pb n="41" facs="tcp:66307:21"/>verus eſt, ac praeſtantiſſimus optimorum ſtudiorum fructus, ſi qui à ſeipſo pendeat, ſi temporum viciſ<g ref="char:EOLhyphen"/>ſitudines non extimeſcat, ſi adver<g ref="char:EOLhyphen"/>ſus hominum iniquitates, fortunae<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> in<g ref="char:EOLhyphen"/>jurias ratione &amp; vertute pugnet. Quam in <hi>Polo</hi> conſtantiam &amp; ſapi<g ref="char:EOLhyphen"/>entiam fuiſſe quis ignorat? Metuen<g ref="char:EOLhyphen"/>dae erant a rege potentiſſimo inſidiae, metuenda vis propterea quod, ſuſcep<g ref="char:EOLhyphen"/>ta Eccleſiae cauſa, luculento illo de Pontificis autoritate libro, ſuſceptum ſimul a ſe graviſſimum ejus odium intelligebat. Deſerebatur etiam quo<g ref="char:EOLhyphen"/>tidie magis à re domeſtica. Nemo tamen eum dejecto, aut demiſſo ſen<g ref="char:EOLhyphen"/>ſit eſſe animo, nemo unquam vidit triſtiori vultu in ſermonibus, in conſue<g ref="char:EOLhyphen"/>tudine, in convictu: in tota deni<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> vitae ratione tranquillitatem mentis, quam habuerat antea, perpetuo reti<g ref="char:EOLhyphen"/>nuit.
+<pb n="42" facs="tcp:66307:22"/>Nec defuêre, quae nunquam ſperaverat, ac ne cogitaverat quidem, tantis debita virtutibus praemia. Nam cùm ita viveret, ut in uno Deo om<g ref="char:EOLhyphen"/>nia poneret, caetera quae mortales ad<g ref="char:EOLhyphen"/>mirantur, infirma, caduca, inania duceret: cum<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> in illa Patavini gymnaſii celebritate domeſticis otii ſui fimibus contentus, paucorum admodum conſuetudine uteretur: brevi tamen (ut ſibi viam facilè virtus aperit) ita manavit fama de admirabili ejus prudentia, temperantia, doctrina; ut ad aures <hi>Pauli</hi> tertii Pont. max. pervenerit. Qui cùm ea eſſet mente praeditus, ut nemo unquam magis de ornanda egregiis Cardinalibus Eccle<g ref="char:EOLhyphen"/>ſia cogitaverit, &amp; eo judicio, ut nemo in delectu erraverit minus: commotus multorum indubio ſermone, <hi>Reginaldum Polum,</hi> diſciplinae Chri<g ref="char:EOLhyphen"/>stianae
+<pb n="43" facs="tcp:66307:22"/>renovandae cauſſâ, cum prae<g ref="char:EOLhyphen"/>ſtantibus aliquot viris ad Urbem accivit: eum<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> Paulo poſt non pe<g ref="char:EOLhyphen"/>tentem, non optantem, prope etiam recuſantem Cardinalem creavit. In hác dignitate, cum alios antea, tum ſeipſum vicit omni genere laudis. Omitto fingularem illam, cui par oratio reperiri milla poteſt, in caede matris acerhiſſima fortitudinem at<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> conſtantiam. Unicum illi contraommes injurias, omneſ<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> calamitates conſci<g ref="char:EOLhyphen"/>entia praeſidium fuit; &amp; in aduerſis rebus jam antea didicerat eſſe fortis. Gravitatem eximiam, pari comitate conditam, manſuetudinem prudentiam, benignitatem in ſublevanda miſerorum inopia non attingo; communia ſint haec, in quibus tamen principua quadam lande <hi>Polus</hi> txcelluit. Venio ad id quod à Cardinalis perſona
+<pb n="44" facs="tcp:66307:23"/>poſtulatur. Nam ubi primum ſacer<g ref="char:EOLhyphen"/>dotio eſt ornatus ampliſſimo, non ille mentem, ut multi, cum fortuna mu<g ref="char:EOLhyphen"/>tavit: non ſericam veſtem, non argenteam ſupellectilem, non deui<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> illuſtrem aliquam, aut optimam pro<g ref="char:EOLhyphen"/>vinciae praefecturam appetivit. Sed contempta prorſus rerum hnmanarum ſpecie, divina studia, quae antea non leviter attigerat, toto pectore com<g ref="char:EOLhyphen"/>plexus, de tuenda Pontificii juris majeſtate, de augenda inter homines Dei gloria, de illuſtranda veritate dies nocteſ<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> cogitare coepit. Quan<g ref="char:EOLhyphen"/>tum in ea philoſophia, quae a ſenſi<g ref="char:EOLhyphen"/>bus ducitur, erroris inſit, at<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> ob<g ref="char:EOLhyphen"/>ſcuritatis, cum antea non ignoraſſet, tum verò totus ad cam philoſophiam traductus, quae caeleſtium bonorum cognitionem parit, clariſſime perſpexit. I am illam, quae colligitur ex rheto<g ref="char:EOLhyphen"/>rum
+<pb n="45" facs="tcp:66307:23"/>praeceptis, eloquentiam, in qua praeter coeteros floruerat, neglexit penitus, inanem duxit, cum librorum voces, non durium voluptati ſer<g ref="char:EOLhyphen"/>vientes, ſed ad intimas animorum partes incredibili quadam ſuavitate penetrantes, exaudivit attentus. Nec verò quidquam habuit antiquius, quam ut a ſanctiſſimis Eccleſiae le<g ref="char:EOLhyphen"/>gibus diſcedentes, quoquomodò ad ſanitatem redirent: cum ipſe multos cohortatione ſua, conſilio, doctrina, nonnullos etiam lenitate quadam ad meliora conſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ia converteret. Incidit tempus, cum de ſufficiendo poſt obi<g ref="char:EOLhyphen"/>tum <hi>Pauli</hi> tertii <hi>Pontificis</hi> ſucceſ<g ref="char:EOLhyphen"/>ſore Cardinalibus deliberatio eſſet: affuit <hi>Polus</hi> ita ſedato animo, ita cupiditatis &amp; ambitionis expers, ut majore Collegii parte Pontificatum ad eum de ferente, non ſtatim aſſenſe<g ref="char:EOLhyphen"/>rit,
+<pb n="46" facs="tcp:66307:24"/>differendam<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> rem tantam in poſterum diem cenſuerit: fore enim; ſi probaret Deus, eundem poſt aliqot horas Cardinalium conſenſum: ſin minus, omnino ſibi quod Deo diſpliceret, placere nihil poſſe. Scripſit etiam in eo Conclavi praeclara quaedam de officio Pontificis: quae cum aliis ejus libris, quos <hi>Joannes Moronus</hi> Cardinalis ob ſumma erga ſedem Apoſtolieam me<g ref="char:EOLhyphen"/>rita, perpetuam<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> vitae innocentiam clariſſimus, accuratè ſervavit, pro<g ref="char:EOLhyphen"/>pediem in lucem proferentur. Quibus in libris, cùm ſpirare adhuc mens illa divini hominis &amp; vigere videatur, afficimur non tam praeceptis at<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> docrina, quàm recordatione tauta<g ref="char:EOLhyphen"/>rum virtutum, quas in illo vidi<g ref="char:EOLhyphen"/>mus.</p>
+                  </body>
+               </floatingText>
+               <floatingText type="letter">
+                  <body>
+                     <pb n="47" facs="tcp:66307:24"/>
+                     <head>
+                        <bibl>Ex Jacobi Sadoleti Cardinalis, <hi>Epiſt.</hi> 10. <hi>lib.</hi> 5.</bibl>
+                     </head>
+                     <p>DE conſuetudine &amp; convictu Poli nostri tantum te capere volupta<g ref="char:EOLhyphen"/>tis, quantum ſcribis &amp; minime mi<g ref="char:EOLhyphen"/>ror, &amp; tuum de illo judicium ve<g ref="char:EOLhyphen"/>hementiſſime probo. Quid enim eſſe poteſt homine illo humanius, cruditi<g ref="char:EOLhyphen"/>us, ſanctius? Eum ego cùm hàc iter haberet, paucis illis horis vix deguſtare quidem potui: ſed tantas tamen in illo omnium ornamentorum divitias tum mihi perſplexſſe viſus ſum, ut poſteà illum non amore mo<g ref="char:EOLhyphen"/>dò, ſed inſigni quadam obſervantiâ ſemper ſim proſecutus. Nam cùm illa mihi amabilia in eo ſunt cognita, ingenium probitas, literae, in quibus ille non mediocriter excellit, tum id
+<pb n="48" facs="tcp:66307:25"/>praeterea admiratione ſummâ dignum (quod ego primum ſtatuo omnium) quòd cum tantâ generis amplitudine &amp; nobilitate tanta naturae bonitas atque humanitas juncta ſit. Itaque quanti fieri a me putas, quod à te ſcriptum est, nomen ſaepe meum ver<g ref="char:EOLhyphen"/>ſari in ſermonibus veſtris? Ego verò vobiſcum, o amiciſſimi homi<g ref="char:EOLhyphen"/>nes, &amp; animo ſemper &amp; cupiditate illâ ſum, ut ſi detur facultas, vo<g ref="char:EOLhyphen"/>biſcum vivere potiſſimùm velim. Etenim ſi eſſemus unà, Deus im<g ref="char:EOLhyphen"/>mortalis, quantas &amp; quàm va<g ref="char:EOLhyphen"/>rias caperemus ſuavitates? quae ſtu<g ref="char:EOLhyphen"/>diorum cunjunctio? quae communica<g ref="char:EOLhyphen"/>cio voluntatum? qui denique ardor exiſteret animorum? ut ad illa prae<g ref="char:EOLhyphen"/>clara atque ſancta philoſophiae ady<g ref="char:EOLhyphen"/>ta copulati introiremus.</p>
+                  </body>
+               </floatingText>
+               <floatingText type="letter">
+                  <body>
+                     <pb n="49" facs="tcp:66307:25"/>
+                     <head>
+                        <bibl>Ex ejuſdem. <hi>Epiſt.</hi> 13. <hi>lib.</hi> 5.</bibl>
+                     </head>
+                     <p>POlus ad me ſcribit uberrimis ele<g ref="char:EOLhyphen"/>gantiſſimiſque literis, multa illa quidem digna illo ingenio &amp; ſanctiſ<g ref="char:EOLhyphen"/>ſimis ipſius moribus, ſed plurimum &amp; praecipuè de te, quem ipſe admo<g ref="char:EOLhyphen"/>dum cuperet ad Theologiae ſtudia jam aliquando animum adijcere.</p>
+                  </body>
+               </floatingText>
+               <floatingText type="letter">
+                  <body>
+                     <head>
+                        <bibl>Ex ejuſdem. <hi>Epiſt.</hi> 20. <hi>lib.</hi> 12.</bibl>
+                     </head>
+                     <p>QUanquam quod ad ſuavitatem amicitiae &amp; familiaritatis at<g ref="char:EOLhyphen"/>tinet, multorum mihi amicorum vi<g ref="char:EOLhyphen"/>cem praestat vir clariſſimus Polus, qui apud nos complures jam eſt men<g ref="char:EOLhyphen"/>ſes: quo homine cave mi Bembe quenquam exiſtimes aut dulciorem in congreſſibus, aut fideliorem in con<g ref="char:EOLhyphen"/>ſiliis
+<pb n="50" facs="tcp:66307:26"/>aut ſanctiorem in omni parte vitae optimiſque moribus exiſtere: praeterea ſummae ipſum doctrinae, ſummique judicii. Sed quid ago? tibine ego eum laudo, qui tibi ipſi melius notus eſt, quam mihi? illud affirmare poſſum, hòc illius ſermones mihi etiam gratiores eſſe &amp; jucun<g ref="char:EOLhyphen"/>diores, quòd in magnâ copiâ &amp; va<g ref="char:EOLhyphen"/>rietate rerum, de quibus colloquimur, ſaepe nobis de te in loquendo incidit mentio, in quâ diutius commorari ſolemus, Priulo praeſertim tuo mate<g ref="char:EOLhyphen"/>riam &amp; copiam ſermonibus ſuppe<g ref="char:EOLhyphen"/>ditante.</p>
+                  </body>
+               </floatingText>
+               <floatingText type="letter">
+                  <body>
+                     <head>
+                        <bibl>Ex <hi>Epiſt. lib.</hi> 14.</bibl>
+                     </head>
+                     <p>ADventus huc Poli ampliſſimi collegae noſtri, &amp; magnum mihi dolorem attulit, ut tu quoque
+<pb n="51" facs="tcp:66307:26"/>futurum videras, &amp; non minorem etiam voluptatem. Videre enim ho<g ref="char:EOLhyphen"/>minem amiciſſimum utrique noſtrûm, ſummâ ipſum virtute, ſummâ tem<g ref="char:EOLhyphen"/>perantiâ modeſtiâ, ſanctitate vitae praeditum, ſanè jucundiſſimum mihi fuit. Eundem autem videre tot ap<g ref="char:EOLhyphen"/>petitum injuriis, atque alienae impie<g ref="char:EOLhyphen"/>tatis &amp; crudelitatis ſcelere, in tan<g ref="char:EOLhyphen"/>tas &amp; tam graves conjectum cala<g ref="char:EOLhyphen"/>mitates, certè non mediocriter mihi moleſtum accidit: cum praeſertim non amici ſolùm in eo incommoda, ſed Chriſtianae etiam Reipub. vulnera uno &amp; eodemtempore, dolere &amp; mi<g ref="char:EOLhyphen"/>ſerari cogerer. Atque ipſe quidem, quo animi robore, &amp; quâ erga De<g ref="char:EOLhyphen"/>um pietate munitus eſt, ferebat res adverſas fortiter atque conſtanter. Ego vero qui nequaquam ſimili vir<g ref="char:EOLhyphen"/>tute praeditus ſum, cum me afflicta<g ref="char:EOLhyphen"/>rem
+<pb n="52" facs="tcp:66307:27"/>in ejus acerbis caſibus, illo ipſo conſolatore ſublevatus ſum, cui me afferre ſolatium magis oportebat. Atque is unum diem apud me cum fuiſſet, ita a me diſceſſit; ut praeter priſtinammeam de illo opinionem no vam etiam admirationem ſuae ſpectatiſſimae virtutis in animo relinqueret.</p>
+                  </body>
+               </floatingText>
+               <floatingText type="letter">
+                  <body>
+                     <head>
+                        <bibl>Ex ejuſdem. <hi>Epiſt.</hi> 11. <hi>lib.</hi> 15.</bibl>
+                     </head>
+                     <p>QUòd enim me cum Polo meo, tuâ opinione ſententiáque conjungis, homine ſummâ eruditione, ſummâ pie<g ref="char:EOLhyphen"/>tate, ſummâ prudentiâ praedito: optaſ<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> denos utriuſque noſtrûm ſimiles, ſi fieri poſſit, exiſtere: quorum fide, vigilan<g ref="char:EOLhyphen"/>tiâ, conſiliis afflictae Chriſtianae Reip. ſubveniatur: est quidem hoc &amp; tuae probitatis, ac religionis maximum ar<g ref="char:EOLhyphen"/>gumentum &amp; ejus opinionis, quam
+<pb n="53" facs="tcp:66307:27"/>de me habes conceptam, indicium in<g ref="char:EOLhyphen"/>ſigne. Veruntamen ſcito, cùm jam<g ref="char:EOLhyphen"/>diu ſit, quòd ego virum illum, &amp; colo &amp; admiror, nunquam autem me optare eſſe auſum, ut cum eo com<g ref="char:EOLhyphen"/>pararer: tantum ſat mihi duxiſſe, ſi illius modò perſequi veſtigia, vel procul obſervando atque imitando poſſem. Itaque habeo eum in vitâ &amp; in diſciplinâ, &amp; in omnibus fo<g ref="char:EOLhyphen"/>renſibus ſenatoriiſque actionibus, du<g ref="char:EOLhyphen"/>cem ac magiſtrum: Quem quòd tu quoque tam ſtudioſè laudas &amp; probas, perjucundum id mihi eſt, proprium<g ref="char:EOLhyphen"/>que ejuſdem praeſtantis animi tui, de quo jamdudum loquor.</p>
+                  </body>
+               </floatingText>
+               <floatingText type="letter">
+                  <body>
+                     <head>
+                        <bibl>Ex ejuſdem. <hi>Epiſt.</hi> 9. <hi>lib.</hi> 16.</bibl>
+                     </head>
+                     <p>QUomodo ergo hoc lues? opinor ſi &amp; literas mihi miſeris, &amp; doctiſſimorum hominum contuberna<g ref="char:EOLhyphen"/>lium
+<pb n="54" facs="tcp:66307:28"/>tuorum Aloyſii Priuli, Conta<g ref="char:EOLhyphen"/>rini &amp; Marci Antonii Flaminii acta aliqua ad me perſcribes. Ni<g ref="char:EOLhyphen"/>ſi fortè omnem tuam mentem, cogi<g ref="char:EOLhyphen"/>tationemque rerum caeterarum, illa prope immenſa ſuaviſſimi hujus co<g ref="char:EOLhyphen"/>mitatus voluptas ſic obruit, ut deſ<g ref="char:EOLhyphen"/>picere in partem aliam non queas: praeſertim, omnium hominum longe &amp; virtute &amp; comitate &amp; pru<g ref="char:EOLhyphen"/>dentiâ praeſtantiſſimo, Polo, tuos oculos animumque complente: quod ſi eſt ita, ignoſco tibi equidem, neque te amplius ullo crimine ac<g ref="char:EOLhyphen"/>cerſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</p>
+                  </body>
+               </floatingText>
+               <floatingText type="letter">
+                  <body>
+                     <head>
+                        <bibl>Joannes Caſa in vita <hi>Petri Bembi</hi> Cardinalis.</bibl>
+                     </head>
+                     <p>CUltus eſt <hi>Romae Bembus,</hi> cum à bonis pleriſque omnibus <hi>Contareno, Sadoleto, Corteſio,
+<pb n="55" facs="tcp:66307:28"/>Morono</hi> Cardinalibus amplſſimis, hominibuſque eruditiſſimis: tum ve<g ref="char:EOLhyphen"/>rò praecipuè a <hi>Reginaldo Polo,</hi> homine, Dei immortalis, dubio pro<g ref="char:EOLhyphen"/>cul, beneficio, ex ultima uſque <hi>Bri<g ref="char:EOLhyphen"/>tania</hi> ad nos vecto, vel de coelo potiùs, ſi modò dictu fas eſt, lap<g ref="char:EOLhyphen"/>ſo; cujus de laudibus, quamquam de tam praeclarâ ac divinâ virtute ne<g ref="char:EOLhyphen"/>mo ſatis digne unquam loquetur, alius mihi profectò dicendi locus da<g ref="char:EOLhyphen"/>bitur. Hoc certè haud facile in praeſentiâ dijudicare audeam; plus ne eam inſulam, multis vulneribus Chri<g ref="char:EOLhyphen"/>ſtianae reipub. per ſummam impieta<g ref="char:EOLhyphen"/>tem infligendis, nocuiſſe dicam; an quòd in illo ſolo talis tantuſque vir ortus &amp; procreatus ſit, unde verae, planeque Chriſtianae pietatis, vitae<g ref="char:EOLhyphen"/>que <hi>exemplum peteremus;</hi> pro<g ref="char:EOLhyphen"/>fuiſſe.
+<pb n="56" facs="tcp:66307:29"/>Is igitur cum <hi>Bembo</hi> fami<g ref="char:EOLhyphen"/>liariſſime vixit, <hi>&amp;c.</hi>
+                     </p>
+                  </body>
+               </floatingText>
+               <p>
+                  <hi>Which</hi> Bembus <hi>ſpeaks ſome<g ref="char:EOLhyphen"/>where to him, as I remem<g ref="char:EOLhyphen"/>ber, in this manner;</hi> Tu verò lon<g ref="char:EOLhyphen"/>ge ornatior atque illuſtrior factus, non <hi>Italiam</hi> modò, ſed <hi>Britaniam</hi> eti<g ref="char:EOLhyphen"/>am tuam, atque ipſum coeli verticem tuarum laudum ſplendore fac impleas. <hi>As if his eminent vertue, like the ſurprizing light, of ſome new</hi> Comet, <hi>without a</hi> parallax, <hi>was to ſhine univerſaly in al parts, for the benefit of man<g ref="char:EOLhyphen"/>kind.</hi>
+               </p>
+            </div>
+            <div type="supplement">
+               <pb n="57" facs="tcp:66307:29"/>
+               <head>SUPPLEMENT.</head>
+               <p>THE comendations of theſe great perſons, I know, are of little account and vali<g ref="char:EOLhyphen"/>ditie in Countries under the do<g ref="char:EOLhyphen"/>mination of <hi>Zuingle, Calvin,</hi> and <hi>Beza.</hi> But al learn'd and ci<g ref="char:EOLhyphen"/>viliz'd ſpirits riſe up with a kind of reverence at the very mentio<g ref="char:EOLhyphen"/>ning of <hi>Sadoletus, Bembus</hi> and <hi>Contarinus,</hi> &amp;c. Whoſe Names ſtand already conſecrated to al poſterity in the hiſtories of their times. They liv'd in a happy, glorious age, which not onely reviv'd, but, I may ſay, ac<g ref="char:EOLhyphen"/>compliſht the noble arts, and ſciences of the antient <hi>Greeks</hi> and
+<pb n="58" facs="tcp:66307:30"/>
+                  <hi>Romans,</hi> which are now univer<g ref="char:EOLhyphen"/>ſaly and much degenerated. For in painting we ſee no pie<g ref="char:EOLhyphen"/>ces like thoſe of <hi>Raphael, Michel Angelo</hi> and <hi>Titian,</hi> or their very Scholars, in the three famous ſchools, at the ſame time of <hi>Rome, Florence,</hi> and <hi>Lombardy.</hi> And what is very remarquable, the <hi>Statuarian</hi> art appear'd in per<g ref="char:EOLhyphen"/>fection, and was extinguiſht in the very ſame perſon of the fore-mention'd <hi>Buonaroti. Elocu<g ref="char:EOLhyphen"/>tion</hi> in al her dreſſes either Hi<g ref="char:EOLhyphen"/>ſtorical, Oratorian or Poetical, ſcarce ever appear'd more <hi>ma<g ref="char:EOLhyphen"/>jeſtique, polite</hi> or <hi>floride</hi> with al her artificial colours, beauties and graces. The above-cited perſons <hi>Contarinus, Caſa, Polus, Sadoletus</hi> and <hi>Bembus</hi> were very
+<pb n="59" facs="tcp:66307:30"/>eminent in this princely, com<g ref="char:EOLhyphen"/>manding facultie, as adapted thereto by their extraction (which was very noble in al, though only royal in <hi>Polus</hi>) by their learn'd education and na<g ref="char:EOLhyphen"/>tural excelencie of wit. They have left us rare monuments in al kind of Eloquence, wherein the old <hi>Grece</hi> and <hi>Rome</hi> ever boaſted; but have proceded no further, like over-cautious <hi>Pi<g ref="char:EOLhyphen"/>lots</hi> not venturing in unknown Seas. Where however they knew others more raſh and les ex<g ref="char:EOLhyphen"/>pert would at the laſt hazard. For being al Churchmen and honor'd with <hi>Epiſcopal</hi> dignity, they have left us no rule, art, or methode of preaching; nor any example, to look upon,
+<pb n="60" facs="tcp:66307:31"/>like a canonical picture of <hi>Titi<g ref="char:EOLhyphen"/>an,</hi> and trace thereby the futur model and general lineaments of a regular ſermon. Which neglect in theſe our Maſter-guides has bin of great damage and detriment not only to their own age, but alſo that of their poſteritie, leaving us in the dark and ignorance, nevertheles raſh<g ref="char:EOLhyphen"/>ly venturing to put and puſh forward with hardy boldnes, not ſo much as like blind men, groping to find out the true way. To illuſtrate and give ſome light to this <hi>Parodoxical</hi> diſcourſe, let us conſider, what the moderate and judicious <hi>Spa<g ref="char:EOLhyphen"/>niard, Ludovicus Vives</hi> ſayes. Than whom, after his Countriman <hi>Quintilian,</hi> no one has better
+<pb n="61" facs="tcp:66307:31"/>cenſurd the lifes, actions, and writings of men. He was con<g ref="char:EOLhyphen"/>verſant in moſt Countries, where human literature floriſht, and ſometimes in <hi>Corpus Chriſti</hi> Col<g ref="char:EOLhyphen"/>lege in <hi>Oxford,</hi> and therefore his cenſure fals particularly on no place or perſons, which was this, in his famous book <hi>de Cau<g ref="char:EOLhyphen"/>ſis corruptarum artium.</hi>
+               </p>
+               <p>—<hi>Receptâ Chriſtianâ pietate, paſ<g ref="char:EOLhyphen"/>ſi ſunt</hi> Principes, <hi>quod univerſis in commune conduceret, ut</hi> Presbyte<g ref="char:EOLhyphen"/>ri <hi>ad populum de rebus ſacris lo<g ref="char:EOLhyphen"/>querentur: ita ſacri</hi> Concionatores <hi>priſcis illis</hi> Oratoribus <hi>ſucceſſêre, ſed diſſimillimo ſucceſſu. Nam quan<g ref="char:EOLhyphen"/>tó illos-ſuperamus rebus, tanto parti<g ref="char:EOLhyphen"/>bus omnibus eloquentiae, totâ vi per<g ref="char:EOLhyphen"/>ſuadendi, ſententiis, argumentis, diſ<g ref="char:EOLhyphen"/>poſitione, verbis, genere orationis,
+<pb n="62" facs="tcp:66307:32"/>actione inferiores ſumus. Cujus rei culpa diviſa eſt inter dicentem &amp; audientem. Olim qui dicebant, erant callentiſſimi uſûs &amp; totius pruden<g ref="char:EOLhyphen"/>tiae communis, &amp; tractandorum animo<g ref="char:EOLhyphen"/>rum peritiſſimi artifices. Qui nunc dicunt quam dispares, imperiti, igna<g ref="char:EOLhyphen"/>ri vitae, imô communis ſenſûs: qui ſint affectus, aut quemadmodum vel impel<g ref="char:EOLhyphen"/>lendi vel revocandi omnino neſcij. Nec cui rei quae verba, quod genus orationis ſit adhibendum nôrunt, omnia bent convenire omnibus rati. Sententias habent plumbeas, frigidas, jacentes, ſegnes quae animos dejiciant potius quam excitent: argumentatiunculas colligunt ab illo exercitio ſcholaſtico, quae ventilant quidem, &amp; titillant interdum, nunquam feriunt aut caedunt. Diſpoſitio fuſa &amp; diſſipata: nihil dicunt ſuo loco: actio immoderata:
+<pb n="63" facs="tcp:66307:32"/>nihil pro re aut tempore: non in voce, non in oculis &amp; ore, non in manu &amp; digitis, non in geſtu &amp; ſtatu corporis univerſi: quae illi ita habent cognita, ut nulla eſſe arbi<g ref="char:EOLhyphen"/>trentur, nec intereſſe ſaltitent dicen<g ref="char:EOLhyphen"/>tes, an ſedeant. Jam auditores ha<g ref="char:EOLhyphen"/>bebant illi olim acutos, attentos ple<g ref="char:EOLhyphen"/>roſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> eruditos, nunc ſocordes, ſegnes, peregrinantes, animo rudes at<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> im<g ref="char:EOLhyphen"/>peritos,</hi> &amp;c.</p>
+               <p>
+                  <hi>Italie</hi> at this time floriſht in eloquence and polite learning, more than at preſent; and as for our <hi>Ciſalpine</hi> Countries, I leave them to the pleadings of no mean advocates Sir <hi>Thomas More, Eraſmus</hi> and <hi>Budaeus,</hi> &amp;c. As for the firſt of his animad<g ref="char:EOLhyphen"/>verſions, touching the exceſſive diſparity betwixt our <hi>Preachers</hi>
+                  <pb n="64" facs="tcp:66307:33"/>and the antient <hi>Orators,</hi> whom they ſuccede: I think there is no diſagreement amongſt the <hi>Learned.</hi> Nor how far we ex<g ref="char:EOLhyphen"/>cede them in the noblenes, va<g ref="char:EOLhyphen"/>riety and amplitude of ſubjects; which the Myſteries of our re<g ref="char:EOLhyphen"/>ligion in a copious manner af<g ref="char:EOLhyphen"/>ford us. Yet al this has pro<g ref="char:EOLhyphen"/>duc't no conſiderable effect, nor any thing to be put in parallel with thoſe pretious reliques of Antiquitie; richly embelliſhing with a pleaſant variety, for the moſt part trivial, temporal and profane ſubjects. In our <hi>French</hi> travels, you remember, the com<g ref="char:EOLhyphen"/>mon Sermons much deceiv'd our expectation, with their long repetitions, tedious circumlo<g ref="char:EOLhyphen"/>cutions and ayerie expreſſions,
+<pb n="65" facs="tcp:66307:33"/>under which there was no ſo<g ref="char:EOLhyphen"/>lid ſenſe or fundation of matter methodicaly diſpos'd, wherin the antients were admirable; which defect made the words (as it uſualy hapens) flye and flutter about our ears, with a great deal of inſignificancie. Which however are pour'd forth with a confident readines and a great volubilitie, the <hi>Preacher</hi> never otherwiſe appearing arm'd and provided, than with his hanker<g ref="char:EOLhyphen"/>chief, inſted of prompting pa<g ref="char:EOLhyphen"/>pers, ſo contrary to the cuſtom of the <hi>Engliſh,</hi> who are nothing inferior in wit, and of a bet<g ref="char:EOLhyphen"/>ter memorie. At our return home, having ſeen King <hi>Charles</hi> the firſt in his writings often complaining and aſcribing his
+<pb n="66" facs="tcp:66307:34"/>ruine to the <hi>Pulpit;</hi> we preſump<g ref="char:EOLhyphen"/>tuouſly thought to have retriv'd the antient <hi>Eloquence</hi> riſing a<g ref="char:EOLhyphen"/>mongſt us there again, in a for<g ref="char:EOLhyphen"/>midable <hi>Majeſtie.</hi> For the ad<g ref="char:EOLhyphen"/>mirable effects of this <hi>renoun'd facultie</hi> being known to be good and bad: we have here ſeen the latter, higher and of a more curſed nature, than what <hi>Anti<g ref="char:EOLhyphen"/>quity</hi> can ſhew. For where ſhal we find among them, ſo great and vertuous a <hi>Prince</hi> ſoberly murdred with cold hands in Publique, ſo incomparable a <hi>Queen</hi> and numerous iſſue either miſerably wandring, baniſht or impriſon'd; in fine, the <hi>Religion</hi> and <hi>State</hi> wholy ſubverted by the <hi>voluntary ſwearers</hi> to defend both. Now, to this vaſt de<g ref="char:EOLhyphen"/>moliſhment
+<pb n="67" facs="tcp:66307:34"/>and downfall of three <hi>Kingdoms,</hi> if you imagine in fancie to find proportionated <hi>Enginers,</hi> you wil be much de<g ref="char:EOLhyphen"/>ceiv'd. For <hi>Hugh Peters,</hi> the chief <hi>Architect</hi> among them, had in his looks, behavior and diſcourſe more the faſhion of a <hi>Buffoon,</hi> then the face, <hi>habit</hi> and <hi>autoritie</hi> of one of the antient <hi>Orators.</hi> As for the reſt of his <hi>Brethren,</hi> we wil paſſe them over in ſilence, as being his inferiors, and for our own credit ſake; that the nature and paultry condition of our <hi>Antagoniſts</hi> may the better remayn indiſcover'd Tis ſtrange to think, how a noble <hi>Kingdom,</hi> acquir'd by the invincible hands of ſo great a <hi>Conqueror,</hi> ſhould in proces of time fal thus by
+<pb n="68" facs="tcp:66307:35"/>the wretched tongues of ſo vile, mercenary and ignominious <hi>Gowmnen.</hi> There was nothing more fooliſh or frivolous, (ſet<g ref="char:EOLhyphen"/>ting aſide the Treaſon) in form and matter than their diſcon<g ref="char:EOLhyphen"/>certed Sermons: nor indeed more ridiculous, unleſs it was the action and pronuntiation, which was with an odious noiſe and utterance through the noſe, yet appearing very muſical and grateful to their moſt attentive &amp; preſſing Congregations. Their general cuſtom was, to pick out of the Scripture ſome ob<g ref="char:EOLhyphen"/>ſcure Text, which they man<g ref="char:EOLhyphen"/>gled, inſted of dividing, into fragments, and certain diminu<g ref="char:EOLhyphen"/>tive particles, which were con<g ref="char:EOLhyphen"/>verted at laſt into ſo many po<g ref="char:EOLhyphen"/>ſitive
+<pb n="69" facs="tcp:66307:35"/>points, ſtrangely pricking &amp; tickling the currupted fancies of their <hi>Audience.</hi> In whoſe opinion and judgment, they would often deſtroy al <hi>Prelacie</hi> and <hi>Popery</hi> in the ſame breath. Which, by vertu of former <hi>Scriblers</hi> in this kind, was as eaſily done; as the body of their <hi>Sermons</hi> com<g ref="char:EOLhyphen"/>pos'd out of <hi>Common places</hi> and <hi>Concordances.</hi> Their Epilog and terrible <hi>Peroration</hi> was uſualy in<g ref="char:EOLhyphen"/>cluded within the ſeven hils of <hi>Rome</hi> there furiouſly baiting the <hi>horn'd beaſt,</hi> and Antichriſt. Which however many times were their beſt friends and aſſiſtants, at a dead halt and ſtand; when al their <hi>Hebrew, Grec</hi> and <hi>Latin;</hi> and their laſt uſes, doctrines and applications fail'd them. Which
+<pb n="70" facs="tcp:66307:36"/>ſort of ſorry ſhifts and poor in<g ref="char:EOLhyphen"/>ventions, to waſte time, are only the lazy cuſtoms of theſe latter dayes, unpractis'd by the <hi>Anti<g ref="char:EOLhyphen"/>ents.</hi> Whom we cannot ſuffici<g ref="char:EOLhyphen"/>ently admire, with their artifi<g ref="char:EOLhyphen"/>cial methods; ſomtimes <hi>analy<g ref="char:EOLhyphen"/>tique,</hi> ſomtimes of an oppoſite nature, and ſomtimes mixt; yet ever producing admirable effects: Which ſubtile wayes were very wel known and practiz'd by my Lord <hi>Bacon,</hi> and are the hidden reaſon why ſo may of his <hi>diſcourſes</hi> in<g ref="char:EOLhyphen"/>ſtruct, improve and pleaſe the readers in general, like a legi<g ref="char:EOLhyphen"/>timate piece of <hi>Architecture</hi> ve<g ref="char:EOLhyphen"/>ry often ſurprizing, incompre<g ref="char:EOLhyphen"/>hending, and ignorant fancies, which can give no reaſon of
+<pb n="71" facs="tcp:66307:36"/>their ocular delight and ſatis<g ref="char:EOLhyphen"/>faction. Some of theſe <hi>diſcourſes</hi> therefore have paſt the <hi>Alps,</hi> and found approbation in an <hi>Italian</hi> dreſs, from the exquiſit judg<g ref="char:EOLhyphen"/>ments of that Country. Where<g ref="char:EOLhyphen"/>as tis beſt for moſt <hi>Sermons</hi> to reſt ſatisfyed with the applauſe of their firſt Audience; whe<g ref="char:EOLhyphen"/>ther it be in <hi>City, Court</hi> or <hi>Coun<g ref="char:EOLhyphen"/>try.</hi> The open light and air are very improper and hazard<g ref="char:EOLhyphen"/>ous for them, as being uſualy Creatures of a week fabrique and conſtitution: ſomthing not unlike in nature to the fading compoſitions in Muſick of our dayes, which ſcarce ever ſur<g ref="char:EOLhyphen"/>vive the Author, and ſo diſor<g ref="char:EOLhyphen"/>derly thruſt one another out of
+<pb n="72" facs="tcp:66307:37"/>date, that the younger ſtile gets place. Which ever fals out con<g ref="char:EOLhyphen"/>trary in the juſt and lawful pro<g ref="char:EOLhyphen"/>ductions of noble ſpirits, where<g ref="char:EOLhyphen"/>in we alwayes ſee precedence in antiquity rather giving autority and prerogative, than cauſing any kind of detriment or de<g ref="char:EOLhyphen"/>minution. However I hear of late, that there are ſtarted up among us, excellent <hi>Preachers</hi> of al Religions, who with choice matter curiouſly elaborated, and with a free noble delivery, ſett of with looks and geſture ſuita<g ref="char:EOLhyphen"/>ble to the ſubjects and paſſions repreſented, are likely to work marvelous effects, and reduce again the happy firſt dayes of King <hi>Charles</hi> the firſt. Which appears the more probable, in
+<pb n="73" facs="tcp:66307:37"/>that I underſtand, theſe worthy perſons are for the excelent, mo<g ref="char:EOLhyphen"/>ral and pacifique doctrine of the old <hi>Grec</hi> and <hi>Latin Homilies,</hi> having laid aſide al Controver<g ref="char:EOLhyphen"/>ſies, which are moſt improper for <hi>Pulpits:</hi> and ſerve rather to irritate, than heal or compoſe our minds too much already feſter'd and exulcerated with ſo many late ſeditious contentions of al ſorts. We are onely fit now for a peaceable quietnes, like ſuch patients, to whom the prudent <hi>Phyſitian</hi> preſcribes a weathering repoſe alone, with the uſe perchance of ſome wa<g ref="char:EOLhyphen"/>ters to purge and waſh away certain ſcurvy, malignant hu<g ref="char:EOLhyphen"/>mors. The matter of Contro<g ref="char:EOLhyphen"/>verſie has bin drain'd to the
+<pb n="74" facs="tcp:66307:38"/>bottom on all ſides and hands, ever ſince my Lord <hi>Bacon</hi>'s dayes, as he himſelf teſtifies: So that now there's nothing left, but filthy lees and dregs for new <hi>Operators.</hi> And there<g ref="char:EOLhyphen"/>fore, like a ſage <hi>Lawyer,</hi> as wel as great <hi>Philoſopher,</hi> he diſ<g ref="char:EOLhyphen"/>ſwades any father progres in ſuch contentions, fruitles and endles in a Countrie, where there is no <hi>Tribunal</hi> of judica<g ref="char:EOLhyphen"/>ture erected, or wil be admit<g ref="char:EOLhyphen"/>ted by either ſex. If any, by reaſon of the difficulty and va<g ref="char:EOLhyphen"/>rietie, find themſelves unfit for thoſe noble, profound <hi>ſciences,</hi> which he often propoſes; yet have an itchy, buiſy ſpirit, which muſt be in ſome action; there are many other more in<g ref="char:EOLhyphen"/>genious
+<pb n="75" facs="tcp:66307:38"/>occupations and em<g ref="char:EOLhyphen"/>ployments, to take up their time of leiſure, if aptly follow'd, as the various and delightful operations in <hi>Chymiſtrie;</hi> and ſo many excelent inventions and practices, lately diſcovered at home and abroad, in <hi>Experi<g ref="char:EOLhyphen"/>mental Philoſophie,</hi> with ſeve<g ref="char:EOLhyphen"/>ral other acceſſory and ſubſer<g ref="char:EOLhyphen"/>vient parts of Philoſophical learning in general.</p>
+            </div>
+            <div type="postscript">
+               <pb n="76" facs="tcp:66307:39"/>
+               <head>POSTSCRIPT.</head>
+               <head type="sub">As concerning the above-cited Te<g ref="char:EOLhyphen"/>ſtimonies.</head>
+               <p>THe fame of <hi>Paulus Manuti<g ref="char:EOLhyphen"/>us, Bembus,</hi> and <hi>Sadoletus,</hi> is ſpread among the lear<g ref="char:EOLhyphen"/>ned of al nations; but this of <hi>Caſa</hi> has not taken ſo large a flight, nor is much converſant in <hi>Northren</hi> parts, unles among Travelers. To give therefore ſome credit to his teſtimony, and make it more authentique, we wil hear, in the firſt place, <hi>Muretus,</hi> ſpeaking in this man<g ref="char:EOLhyphen"/>ner.</p>
+               <p>— <hi>Neque immeritò commendati
+<pb n="77" facs="tcp:66307:39"/>ſunt, aut is qui pauca quidem ſcrip<g ref="char:EOLhyphen"/>ſit, ſed in ſcribendo omnium politiſ<g ref="char:EOLhyphen"/>ſimus maximeque, limatus, idemque ab omnibus ineptiis remotiſſimus fuit</hi> Joannes Caſa, <hi>&amp;c.</hi> This ex<g ref="char:EOLhyphen"/>preſſion <hi>ab ineptiis remotiſſimus,</hi> a<g ref="char:EOLhyphen"/>mong others, as he elſwhere teſtifyes, reflects on the conceits and <hi>Batavian</hi> jeſts of <hi>Eraſmus,</hi> in his praiſe of Folly and Dialogs, <hi>&amp;c.</hi> which ſort of ſawce and ſeaſoning, ſome ſcholars have groſly miſtaken for pure <hi>Attique</hi> ſalt and wit. The noble <hi>Tri<g ref="char:EOLhyphen"/>dentine</hi> Hiſtorian ſpeaking of this <hi>Caſa,</hi> ſayes, As his brother was formidable with his ſword; ſo he was with his pen. His Ora<g ref="char:EOLhyphen"/>tion to the great <hi>Emperor</hi> of his time, is imagin'd to be the firſt piece of true genuine
+<pb n="78" facs="tcp:66307:40"/>eloquence, which has appear'd ſince the dayes of <hi>Auguſtus;</hi> and therefore I wonder it has found no Tranſlator. But perchance it would not pleaſe, ſince in<g ref="char:EOLhyphen"/>ſtede of the figures, tropes and ſchems, in a ſolid diſcourſe, and other graces of the <hi>Antients,</hi> we are now ſo delighted with gingles, quibles, and trifling conceits in a frothie, incohaerent matter, interlarded with a nau<g ref="char:EOLhyphen"/>ſeous multiplicity of citations, in diverſe languages. Which, for the moſt part, are onely ſorry, ſervile ſhifts, <hi>pedantique</hi> arts, and odious deformities in ſpeech and writing, introduc'd by ſome modern <hi>Orators:</hi> and nothing conducing to the true delight or benefit on the one ſide, but
+<pb n="79" facs="tcp:66307:40"/>much aſſiſting and concealing the ſupine eaſe and lazines of the cunning practiſer on the o<g ref="char:EOLhyphen"/>ther ſide. Whereas an orderly diſcourſe ſhould, with a certain analogie, imitate the works of nature, or of art in perfection; where al parts have ever a congruous and conſpiring union as wel as uniformity among themſelves. As for example, in a <hi>Dorique</hi> compoſition, ei<g ref="char:EOLhyphen"/>ther in muſique or architecture, any thing <hi>Jonique,</hi> though ex<g ref="char:EOLhyphen"/>celent in it ſelf, would be viti<g ref="char:EOLhyphen"/>ous; and ſo al enterlacings and emboſſements, which are like frequent citations in ſpeech, though otherwiſe ſplendid, would be here offenſive to the ſenſes and underſtanding of a wel-bred
+<pb n="80" facs="tcp:66307:41"/>Gentleman. But let us paſſe to this ſhort Character of <hi>Bartholomeo Zucchi</hi> in his <hi>Idea</hi> of a perfect Secretary.</p>
+               <q xml:lang="ita">  
+                  <p>
+                     <hi>Queſti è quel</hi> Giovanni della Caſa <hi>Gentilhuomo Fiorentino, che ha laſciato in dubio, in qual lin<g ref="char:EOLhyphen"/>gua egli ſcriueſſe meglio, ò nella</hi> Latina <hi>ò nella</hi> Toſcana, <hi>e nel verſo e nella proſa: Coſi fu mi<g ref="char:EOLhyphen"/>rabile nell'una e nell'altra. Ha ſcritto poche coſe, ò almeno poche vanno attorno, le quali il faranno piu immortale, che le molte, che hanno publicate alcuni. Son tutte belle, tutte eccellenti. Fu e Segre<g ref="char:EOLhyphen"/>tario di Cardinali, e impiegato in gravi affari. Dopo eſſere ſtato alcun tempo Prelato molto ſtimato nella Corte</hi> Romana, <hi>hebbe l' Arciveſcovato</hi> di Benevento, <hi>nel quel grado ſi mori.</hi>
+                  </p>
+               </q>
+               <pb n="81" facs="tcp:66307:41"/>
+               <p>
+                  <label>Engliſhed thus.</label>
+               </p>
+               <q>  
+                  <p>This is that <hi>John de la Caſa</hi> a <hi>Florentine</hi> Gentleman, who has left in doubt, in what language, he was moſt dex<g ref="char:EOLhyphen"/>trous and excelent: whether in <hi>Latin</hi> or <hi>Italian;</hi> or <hi>Verſe</hi> or <hi>Proſe.</hi> He was ſo ſingular and admirable in all theſe facul<g ref="char:EOLhyphen"/>ties. He has writ few pieces or at leaſt few paſſe currant as his genuine productions. Which however wil more immortaliſe his name, than the voluminous works of others. Every thing proceding from him is rare and excelent. He was Secretary a<g ref="char:EOLhyphen"/>mong the Cardinals, and em<g ref="char:EOLhyphen"/>ploy'd in affairs of great con<g ref="char:EOLhyphen"/>ſequence. After having bin a
+  <pb n="82" facs="tcp:66307:42"/>Prelat of great eſtimation in the Court of <hi>Rome,</hi> he was advanc't to the <hi>  Arch-Biſhoprick</hi> of <hi>Beneven<g ref="char:EOLhyphen"/>tum,</hi> in which condition he dyed.</p>
+               </q>
+               <p>
+                  <hi>Monſieur Balzac,</hi> whoſe fol<g ref="char:EOLhyphen"/>lies and affectations in his young dayes, corrupted not only the the ſpirits of his own Country, but many alſo of thoſe abroad, ſeems at laſt to have had a mature judgment: which per<g ref="char:EOLhyphen"/>haps is the reaſon, why his latter books pleaſe leſſe, and remain every where untranſla<g ref="char:EOLhyphen"/>ted. However out of the value I have for them, I ſhall pick out here ſomething concerning our preſent ſubject.</p>
+               <q xml:lang="fre">  
+                  <p>
+                     <hi>En</hi> Italie <hi>il s'appelle</hi> Monſig<g ref="char:EOLhyphen"/>nor de la Caſa, <hi>il eſtoit Gen<g ref="char:EOLhyphen"/>tilhomme Florentin, de tres bonne
+  <pb n="83" facs="tcp:66307:42"/>et tres ancienne maiſon. Il auoit eſte nourry petit garzon a la Cour de</hi> Rome, <hi>ou d'abord il eut l'ap<g ref="char:EOLhyphen"/>probation de tout ce qu'il y auoit d'honneſtes gens. Il a eſcrit en proſe et en vers, en l'une et l'au<g ref="char:EOLhyphen"/>tre langue auec tel ſucces, qu'il fut admiré des Orateurs et des Poetes de ſon temps, au deſſu deſquels il s'eſtoit eleuè.</hi> Torquato Taſſo <hi>l'a tant eſtimé qu'il a voulu eſtre ſon grammairien. Et j'ay leu, ſur un des ſonnets de ce</hi> Monſig<g ref="char:EOLhyphen"/>nor, <hi>une lecon, que ce poete re<g ref="char:EOLhyphen"/>cita, ſi'l m'en ſouvient bien dans</hi> l' <hi>Academie de Ferrare. Cet ex<g ref="char:EOLhyphen"/>cellent homme eſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>it d'une ſanté aſ<g ref="char:EOLhyphen"/>ſez vigoreuſe, il veſcut dans le loiſir tantoſt de</hi> Rome <hi>et tantoſt de</hi> Veniſe: <hi>et neantmoins il n'a laiſſé en toute ſa vie, qu'un liure de
+  <pb n="84" facs="tcp:66307:43"/>l'eſpaiſſeur de deux almanachs Cest n'eſt pas qu'il euſt, l'eſprit ſterile, et qu'il cultivaſt une terre ingrate. Car jamais homme n'apporta au monde de plus grands avantages, ni plus de diſpoſition a l'eloquence,</hi> &amp;c.</p>
+               </q>
+               <p>
+                  <label>Engliſhed thus.</label>
+               </p>
+               <q>  
+                  <p>In Italian he is cald the <hi>Sig<g ref="char:EOLhyphen"/>nor de la Caſa,</hi> being a <hi>Florentine</hi> Gentleman of a moſt noble and antient race. The education of his unriper age was at the Court of <hi>Rome,</hi> where on a ſudden, he gain'd the approbation of al perſons of merit and honor. His proſe and verſe in both languages was ſo happy and ſuccesful, as to make him ad<g ref="char:EOLhyphen"/>mired by the <hi>Orators</hi> and <hi>Poets</hi> of his time, whom he much
+  <pb n="85" facs="tcp:66307:43"/>ſurpaſt. <hi>Torquato Taſſo</hi> valued him at ſo high a rate, that he vouch<g ref="char:EOLhyphen"/>ſaft to become his Grammari<g ref="char:EOLhyphen"/>an. And I have read, if I wel remember, a leſſon upon a ſonnet of this <hi>Signor</hi> which this Poet recited in the <hi>Academy of Ferrara.</hi> This excelent per<g ref="char:EOLhyphen"/>ſon was of a ſufficient and active health, and enjoy'd a hap<g ref="char:EOLhyphen"/>py leiſure ſomtimes at <hi>Rome,</hi> and ſometimes at <hi>Venice.</hi> Yet al his life has onely afforded us a litle book no thicker in bulk, than two <hi>Almanacks.</hi> The reaſon of this proceded not from the ſterility of his ſpirit; or that he cultivated a barren and ungratful ſoyle. For ne<g ref="char:EOLhyphen"/>ver man was born with more natural advantages, or endowed
+  <pb n="86" facs="tcp:66307:44"/>with a better diſpoſition for Eloquence, <hi>&amp;c.</hi>
+                  </p>
+               </q>
+               <p>The memory of Monſieur <hi>Blazac</hi> has not faild him; for the leſſon here mention'd (which I have by me) was recited in this manner: and there was a kind of civil war between the two Academies of <hi>Ferra<g ref="char:EOLhyphen"/>ra</hi> and <hi>Florence</hi> at the ſame time, when it was compos'd be <hi>Torquato Taſſo.</hi> Who was, without diſpute, the greateſt and moſt univerſal Poet, that has appear'd in any known language, ſince the death of the <hi>Roman Virgil.</hi> And yet here he acts the inferior and ſubſervient part of a Gramma<g ref="char:EOLhyphen"/>rian, Scholiaſt, Comentator. Which condeſcention in ſo
+<pb n="87" facs="tcp:66307:44"/>Princely a Poet, is the greateſt which I have ever heard: and crowns with an everlaſting honor the memory of this <hi>Signor de la Caſa.</hi> From hence we perceive of how high a value, is this large Encomium of <hi>Polus,</hi> from a perſon of ſo rare merit, and o<g ref="char:EOLhyphen"/>therwiſe, as we have ſeen, ſo pe<g ref="char:EOLhyphen"/>nurious of his choice and pre<g ref="char:EOLhyphen"/>tious Ink. What is ſpoken here of this <hi>Giovanni della Caſa, ſeems de<g ref="char:EOLhyphen"/>vious &amp; epiſodical,</hi> as to our ſub<g ref="char:EOLhyphen"/>ject; but I could not omit it, out of reſpect and gratitude, for the great honor, this noble <hi>Flo<g ref="char:EOLhyphen"/>rentine</hi> has done our Country, in the perſon of this <hi>royal Cardinal,</hi> to whom we will now return in this following relation of
+<pb n="88" facs="tcp:66307:45"/>
+                  <hi>Le Sieur Maurier.</hi>
+               </p>
+               <q xml:lang="fre">  
+                  <p>REnaud Polus, <hi>Cardinal &amp; Archeveque de</hi> Cantorbie, <hi>eſtoit fils de</hi> Richard Po<g ref="char:EOLhyphen"/>lus <hi>Couſin Germain du roy</hi> Henry <hi>VII. &amp; de</hi> Marguerite <hi>fille de</hi> George Duc <hi>de</hi> Clarence, <hi>frere du roy</hi> Edouard <hi>IV. La nature luy avoit donné un excellent eſprit, qu'il avoit cultivé ſoigneuſement &amp; beureuſement dans les plus celebres</hi> Academies <hi>de l'</hi> Europe, <hi>où il ſe'ſtoit fait d'illuſtres amis, &amp; ſur tout en</hi> Italie. <hi>Comme il avoit de la naiſſance, &amp; du ſcavoir, de l'eſprit, &amp; de l' habilite, tout le monde l' honora en Angleterre: &amp; le roy</hi> Henry; <hi>VIII. ne fut pas des derniers a luy faire des avances de
+  <pb n="89" facs="tcp:66307:45"/>bienveillance &amp; d'eſtime.</hi> Renaud Polus <hi>en temoigna bien de la gra<g ref="char:EOLhyphen"/>titude. Mais il ne pût jamais ad<g ref="char:EOLhyphen"/>herer, par une laſche complaiſance, au deſirs injuſtes de ce</hi> Prince, <hi>qui pour ſatisfaire une paſſion brutale, viola toutes les loix de l'honneur, &amp; de la religion, introduiſant, par un renverſement deplorable, le ſchiſme &amp; l'hereſie dans ſon eſtat.</hi> Polus <hi>fut contraint de ſortir du royaume. Ce<g ref="char:cmbAbbrStroke">̄</g>ſt dans ce temps q'uil ſe crût ob<g ref="char:EOLhyphen"/>ligé d'eſcrire au roy, un traité de l'union de l'egliſe: Et ce zele ge<g ref="char:EOLhyphen"/>nereux paſſant pour inſolence &amp; pour temerité dans l'eſprit d'</hi> Henri, <hi>il promit cinquante mille <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eſcus a celuy qui luy apporteroit ſa teſte. Le Pape</hi> Paul <hi>III. qui l'avoit creé Cardinal en</hi> 1536. <hi>luy donna des gardes.</hi> Henri <hi>en temoigna un
+  <pb n="90" facs="tcp:66307:46"/>deplaiſir extreme, &amp; ne pouvant ſe vanger ſur la perſonne de ce Car<g ref="char:EOLhyphen"/>dinal, il fait mourir ſa Mere &amp; divers de ſes Parens, &amp; le perſe<g ref="char:EOLhyphen"/>cutaſt luy meſme dans toutes ſortes d'occaſions. Le genereux</hi> Polus <hi>ſupporta la mort des ſiens &amp; la deſolation de ſa famille, ayant tant de conſtance &amp; de courage, qu'il merita des eloges des plus illuſtres Ecrivains de ce temps &amp; l'admira<g ref="char:EOLhyphen"/>tion de toute l'</hi>Europe. <hi>Il pardon<g ref="char:EOLhyphen"/>na auſſi aux trois</hi> Italiens <hi>&amp; a deux</hi> Anglois, <hi>qui l'avoient voulu aſſaſſiner. Cependant il fut employé en diverſes legations, &amp; envoyé au</hi> Concil <hi>de</hi> Trente. <hi>Apres la mort de</hi> Paul <hi>III. les Cardinaux voulurent le mettre ſur le ſiege pon<g ref="char:EOLhyphen"/>tifical, &amp; il fut le ſeul qui s'oppo<g ref="char:EOLhyphen"/>ſa a cette exaltation glorieuſe. Sa
+  <pb n="91" facs="tcp:66307:46"/>mort fut un coup fatal &amp; pour la religion &amp; pour le royaume, elle arriva ſeize heures apres celle de la Reyne le</hi> 25 Nov. <hi>de l'</hi> an. 1558. <hi>Les Auteurs, meſme les</hi> Proteſtans, <hi>don<g ref="char:EOLhyphen"/>nent les eloges a ſon eſprit, a ſon ſcavoir &amp; a ſa prudence: &amp; tout le mondé avoue q'uon viſt peu d'egale bonté pour les hommes, ny de ſemblable zele pour Dieu.</hi>
+                  </p>
+               </q>
+               <p>
+                  <label>Engliſhed thus.</label>
+               </p>
+               <q>  
+                  <p>
+                     <hi>Reginaldus Polus</hi> Cardinal and Archbiſhop of <hi>Canterbury,</hi> was Son of <hi>Richard Polus</hi> Couſin germain to <hi>Henry</hi> the <hi>ſeventh.</hi> His mother was <hi>Margaret</hi> daugh<g ref="char:EOLhyphen"/>ter of <hi>George</hi> Duke of <hi>Clarence,</hi> brother of <hi>Edward</hi> the <hi>fourth.</hi> Nature had given him an ex<g ref="char:EOLhyphen"/>celent ſpirit and wit. Which
+  <pb n="92" facs="tcp:66307:47"/>he carefully and happily enricht in the moſt famous Academies of <hi>Europe:</hi> where he gain'd the friendſhip of many illuſtrious perſons, but eſpecialy in <hi>Italie.</hi> As he was eminent in birth, wit, knowlege, and activenes of ſpirit; ſo he was much be<g ref="char:EOLhyphen"/>lov'd and honor'd at home; and King <hi>Henry</hi> the <hi>eighth</hi> was very forward in applauding and ſhewing the ſingular eſteem he had of him. Wherein <hi>Polus</hi> was never backward in a rea<g ref="char:EOLhyphen"/>dy demonſtration of his hum<g ref="char:EOLhyphen"/>ble gratitude. But however, could never adhear, and ſub<g ref="char:EOLhyphen"/>mit, with a ſervile complyance to the injuſt deſires of this <hi>Prince,</hi> who to ſatisfy a carnal appetite, broke the laws of honor and
+  <pb n="93" facs="tcp:66307:47"/>religion, introducing a deplora<g ref="char:EOLhyphen"/>ble confuſion into his <hi>Kingdom.</hi> Out of which <hi>Polus</hi> was con<g ref="char:EOLhyphen"/>ſtraind to depart. In this time of abſence, he thought himſelf obliged to writ a treatiſe to the <hi>King,</hi> concerning the general u<g ref="char:EOLhyphen"/>nion of the Church. But this general Zeal paſſing for an in<g ref="char:EOLhyphen"/>ſolence and raſh enterpriſe in the ſpirit of King <hi>Henry,</hi> he ſet a price, and promiſt <hi>fifty thou<g ref="char:EOLhyphen"/>ſand Crowns,</hi> as a reward, to him who ſhould preſent him with his head. The Pope <hi>Paul</hi> the <hi>third,</hi> who had created him <hi>Car<g ref="char:EOLhyphen"/>dinal</hi> in the year 1536. preſerv'd him with Guards, appointed for his ſafety. Which put the <hi>King</hi> in<g ref="char:EOLhyphen"/>to ſo great a paſſion and cho<g ref="char:EOLhyphen"/>ler, that being unable to re<g ref="char:EOLhyphen"/>venge
+  <pb n="94" facs="tcp:66307:48"/>himſelf upon the perſon of this <hi>Cardinal,</hi> he made his Mo<g ref="char:EOLhyphen"/>ther dye a violent death, with many of his kindred; neither leaving to perſecute his remain<g ref="char:EOLhyphen"/>ing perſon alſo, in al ſorts of oc<g ref="char:EOLhyphen"/>caſions. The generous <hi>Polus</hi> patiently ſufferd the death of his neareſt allyes, and the deſolati<g ref="char:EOLhyphen"/>on of his family, with ſo great a conſtance and courage, that it merited and procur'd him the teſtimonies and admiration of al the noble Writers in <hi>Europe</hi> of his time. He pardon'd alſo three <hi>Italians</hi> and two <hi>Engliſhmen</hi> who would have aſſaſſinated him. He had the fortune to be employ'd in many <hi>Embaſſies</hi> of ſeveral kinds, and to be ſent <hi>Legat</hi> to the <hi>Council of Trent.</hi>
+                     <pb n="95" facs="tcp:66307:48"/>After the death of <hi>Paul</hi> the <hi>third,</hi> the Cardinals would have plac't in the <hi>Pontifical Throne;</hi> and he himſelf was the perſon alone, who oppos'd this glorious exal<g ref="char:EOLhyphen"/>tation. His death was a fatal blow to the religion and king<g ref="char:EOLhyphen"/>dom, which happen'd ſixteen hours after that of the <hi>Queen</hi> in the year 1658. The <hi>Pro<g ref="char:EOLhyphen"/>teſtants</hi> themſelves give elogiums to his wit, learning, and pru<g ref="char:EOLhyphen"/>dence. And al agree that there ſcarce ever appear'd ſo great a zeal for the ſervice of God, nor charitie and affection for that of men.</p>
+               </q>
+               <p>The learn'd Mr. <hi>Camden,</hi> a perſon of another religion, as being a worthy old <hi>Proteſtant</hi> of the old Church of <hi>England,</hi> ſeems
+<pb n="96" facs="tcp:66307:49"/>to approve of theſe commendati<g ref="char:EOLhyphen"/>ons, and verify this laſt paſ<g ref="char:EOLhyphen"/>ſage in theſe words.</p>
+               <q xml:lang="lat">  
+                  <p>
+                     <hi>Eodem quo</hi> Maria <hi>obijt die, poſt pauculas horas</hi> Polus Cardinalis, Archiepiſcopus Cantuarienſis <hi>ex<g ref="char:EOLhyphen"/>piravit, Vir quem pietas, doctrina &amp; integritas multò magis, quàm re<g ref="char:EOLhyphen"/>gij generis ſplendor illuſtrârunt; licet ille</hi> Georgij <hi>Ducis</hi> Clarentiae <hi>fratris</hi> Edvardi quarti Regis An<g ref="char:EOLhyphen"/>gliae <hi>è filiâ nepos</hi> fuerit.</p>
+               </q>
+               <p>His perſecution, with the tra<g ref="char:EOLhyphen"/>gical deſolation of the Fami<g ref="char:EOLhyphen"/>lie, and the cruel, unnatural deſtruction of the members by their proper head, is thus deſcrib'd by <hi>Gratianus.</hi>
+               </p>
+               <q xml:lang="lat">  
+                  <p>
+                     <hi>Nam</hi> Henricus, <hi>cum ei omnia ten<g ref="char:EOLhyphen"/>tanti, ac ne maximis quidem par<g ref="char:EOLhyphen"/>centi ſumptibus intercipere</hi> Polum
+  <pb n="97" facs="tcp:66307:49"/>
+                     <hi>non ſucceſſiſſet, implacabilis irae at<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> acerbitatis ſuae impetum in</hi> Margaretam Poli matrem <hi>avertit. Ea erat lectiſſima &amp; ſanctiſſima faemi<g ref="char:EOLhyphen"/>na,</hi> Edvardi Regis fratris filia. <hi>Nec tamen genere, quam moribus, innocentia ac totius vitae laude nobilior: in cujus diſciplinâ antè</hi> Henricus Mariam <hi>unicam filiam educaverat. Tum abreptam in carcerem diu aerumnis ac miſerijs male habitam, falſis etiam nuntijs interfecti</hi> Regi<g ref="char:EOLhyphen"/>naldi filij <hi>tortam, poſtremò altero filiorumu natu majori, qui ſimal cap<g ref="char:EOLhyphen"/>tus in eâdem cuſtodiâ habebatur; crudeliter necato, anum ipſam alte<g ref="char:EOLhyphen"/>rum &amp; ſeptuageſimum annum agen<g ref="char:EOLhyphen"/>tem, palam in foro capitali ſupplicio afficit, nullum ob crimen aliud, quam quod</hi> Reginaldum <hi>genuiſſet, &amp; de fide</hi> Catholicae <hi>pietatis decedere recuſaſſet.</hi>
+                  </p>
+               </q>
+               <pb n="98" facs="tcp:66307:50"/>
+               <p>Though enough has bin al<g ref="char:EOLhyphen"/>ready promoted in this kind, to pleaſe and ſatisfy al perſons, whoſe Religion allows them any freedom of ſpirit; yet I cannot think this following Re<g ref="char:EOLhyphen"/>lation will appear tedious.</p>
+               <q>
+                  <floatingText>
+                     <body>
+                        <div type="testimonial">
+                           <div xml:lang="lat" type="version">
+                              <head>Ex L. B.</head>
+                              <p>
+                                 <hi>ILlud autem perſuaſum habeo, ejuſ<g ref="char:EOLhyphen"/>modi me legentium oculis imagi<g ref="char:EOLhyphen"/>nem propoſiturum, quae omnibus iis, quae in Chriſtianum hominem cadere poſſunt, virtutibus ornata &amp; expo<g ref="char:EOLhyphen"/>lita appareat. Tantas in hunc Deus hominem ex uberrimo illo benignita<g ref="char:EOLhyphen"/>tis ſuae fonte divinorum munerum di<g ref="char:EOLhyphen"/>vitias transfuderat. Atque hae qui<g ref="char:EOLhyphen"/>dem tot tamque inſignes</hi> Poli Car<g ref="char:EOLhyphen"/>dinalis <hi>virtutes omnibus tota</hi> Eu<g ref="char:EOLhyphen"/>ropa
+  <pb n="99" facs="tcp:66307:50"/>
+                                 <hi>ita cognitae atque perſpectae fue<g ref="char:EOLhyphen"/>runt, ut multi etiam, qui eum nun<g ref="char:EOLhyphen"/>quam vidiſſent, èjus nominis ſtudio<g ref="char:EOLhyphen"/>ſiſſimi atque cupidiſſimi fierent. Ce<g ref="char:EOLhyphen"/>lebre eſt etiamnum ejus nomen apud omnes bonos, magnáque cum laude, ſaepenumero in ſermonibus uſurpa<g ref="char:EOLhyphen"/>tur: at<expan>
+                                       <am>
+                                          <g ref="char:abque"/>
+                                       </am>
+                                       <ex>que</ex>
+                                    </expan> ita gratioſa eſt apud mul<g ref="char:EOLhyphen"/>tos Principes ejus memoria, ut, ſi quem in ejus familiâ aliquandiu ver<g ref="char:EOLhyphen"/>ſatum intelligant, eum, vel hanc u<g ref="char:EOLhyphen"/>nam ob cauſam, benevolentiâ, com<g ref="char:EOLhyphen"/>plectantur, ei<expan>
+                                       <am>
+                                          <g ref="char:abque"/>
+                                       </am>
+                                       <ex>que</ex>
+                                    </expan> libenter faveant. Tan<g ref="char:EOLhyphen"/>ta fuit ejus manſuetudo &amp; clemen<g ref="char:EOLhyphen"/>tia, ut ſi quis eum offendiſſet, ni<g ref="char:EOLhyphen"/>bil de ulciſcendo cogitaret, omneſ<expan>
+                                       <am>
+                                          <g ref="char:abque"/>
+                                       </am>
+                                       <ex>que</ex>
+                                    </expan> injurias facile remitteret, at<expan>
+                                       <am>
+                                          <g ref="char:abque"/>
+                                       </am>
+                                       <ex>que</ex>
+                                    </expan> condo<g ref="char:EOLhyphen"/>naret.</hi> Viterbij <hi>tres</hi> Italos, <hi>ne<g ref="char:EOLhyphen"/>cem ſibi molientes, liberari juſſit. Duos item</hi> Anglos Capranicae, <hi>quò ipſe ob aeſtivos calores vitandos
+  <pb n="100" facs="tcp:66307:51"/>ſeceſſerat, comprehenſos, qui ad eum trucidandum ab</hi> Henrico <hi>rege ex ultimâ uſque Angliâ ſubmiſſi erant, necari noluit, cùm ad unum ſe eam injuriam pertinere diceret; nec duri<g ref="char:EOLhyphen"/>us in illos animadverti paſſus eſt, quàm ut paucos ad dies ad triremes relegarentur. Res adverſas &amp; ca<g ref="char:EOLhyphen"/>lamitates, tam forti magnoque animo ſemper tulit, ut, ei hac virtute pa<g ref="char:EOLhyphen"/>res qui eſſent, paucos admodum me<g ref="char:EOLhyphen"/>moriâ noſtrá fuiſſe exiſtimem, ſu<g ref="char:EOLhyphen"/>periorem verò neminem. Ejus rei multa poſſem afferre exempla, ſed hoc uno contenti erimus. Quodam die cum multas ex Galliâ, atque ali<g ref="char:EOLhyphen"/>is ex locis literas accepiſſet, mihi<g ref="char:EOLhyphen"/>que mandâſſet, ut iis reſpondcrem; tum ego literas in unum faſciculum colligens, cum quaſdem</hi> Anglica <hi>lingua ſcriptas vidiſſem: Ad has
+  <pb n="101" facs="tcp:66307:51"/>verò, inquam, non eſt, quod ego reſpondeam, cùm ejus linguae planè ſim ignarus. Ille minimè turbato vultu, utinam verò, inquit, eas &amp; legere poſſes &amp; intelligere. Laetum, enim nuntium referunt. Ejus ego nuntii cupiditate incenſus, ut me quo<g ref="char:EOLhyphen"/>que ejus participem eſſe velit, rogo. Tum ille, equidem ſemper ex<g ref="char:EOLhyphen"/>iſtimavi, inquit, Dei benefi<g ref="char:EOLhyphen"/>cio, ejus me faeminae filium eſſe, quae tum genere ipſo, tum virtuti<g ref="char:EOLhyphen"/>bus primaria eſſet. Quâ de re maxi<g ref="char:EOLhyphen"/>mas etiam Deo gratias habebam. Nunc verò non id ſolùm, verium etiam majori me Dei benificio auctum video. Matrem enim meam mar<g ref="char:EOLhyphen"/>tyrii gloriâ ornatam eſſe audio. Nam cum illa</hi> Catholicam <hi>fidem noſtram conſtanter retineret, neque eam deſe<g ref="char:EOLhyphen"/>rere ullâ ratione vellet,</hi> Henrici
+  <pb n="102" facs="tcp:66307:52"/>
+                                 <hi>juſſu, ſeptuaginta jam annos natae mulieri caput eſt amputatum. Hoc ſciliect praemium tulit laborum, quos in educandâ ejus filiâ ſuſceperat. His verbis, conſternato animo cum eſſem; bono, inquit ille, animo ſimus: haec quoque acceſſit ad caeteros patronos, &amp; advocatos, quos in caelis habemus. Poſtea in ſacellum, ubi deum pre<g ref="char:EOLhyphen"/>cari ſolebat, ſeceſſit; ubique aliquan<g ref="char:EOLhyphen"/>diu commoratus est, egreſſus ad ſuos eundem ſemper vultum, ean<g ref="char:EOLhyphen"/>dem hilaritatem retinuit. Neque verò hoc ille faciebat, aut quòd me<g ref="char:EOLhyphen"/>diocriter matrem diligeret, aut quod non vehementer ab illá redamare<g ref="char:EOLhyphen"/>tur; ſed eâ animi fortitudine, ut dictum eſt, munitus erat, ut his fortunae telis de conſtantiâ ſuâ deji<g ref="char:EOLhyphen"/>ci non poſſet. Sic prorſus nuntium tulit de fratris ſui natu maximi ne<g ref="char:EOLhyphen"/>ce,
+  <pb n="103" facs="tcp:66307:52"/>cui Rex caput, uná cum duo<g ref="char:EOLhyphen"/>bus aliis ejus Conſanguineis, religio<g ref="char:EOLhyphen"/>nis cauſâ, praecidi juſſerat: Sic a<g ref="char:EOLhyphen"/>lias complures calamitates, &amp; res adverſas. Atque in his quemad<g ref="char:EOLhyphen"/>modum fortiter ſe gerebat; ita in ſecundis rebus humiliter; ut neque in alteris ullo modo efferetur, neque alteris dep<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                       <desc>•</desc>
+                                    </gap>imeretur. Sic paupertatem tanquam dives; opes tanquam pauper tulit. Pridie ejus diei quo è vitâ diſceſſit, extremae unctionis ſacra<g ref="char:EOLhyphen"/>mentum ſua ſponte ipſe, nemine mo<g ref="char:EOLhyphen"/>nente, poſtulavit, &amp; ad extremum uſque ſpiritum &amp; locutus eſt, &amp; prae<g ref="char:EOLhyphen"/>clarè ſibi ſemper conſtitit; ac tam leniter, quietéque animam ipſam ef<g ref="char:EOLhyphen"/>flavit, ut dormientis ſpeciem magis, quam morientis, vultus ejus ac to<g ref="char:EOLhyphen"/>tus corporis habitus referret. Obiit autem, quod ſanè mirum videri que<g ref="char:EOLhyphen"/>at,
+  <pb n="104" facs="tcp:66307:53"/>eo ipſo die, quo Regina. Scrip<g ref="char:EOLhyphen"/>to to teſtamento Aloyſium Priulum</hi> Patritium Venetum, <hi>quem unicè amaverat, &amp; ſemper fratris loco habuerat, ſuarum rerum omnium haeredem inſtituit, ejuſque arbitrio permiſit, ut cum alia quaedam ip<g ref="char:EOLhyphen"/>ſius legata diſtribueret, tum iis, qui ſe longinquis è partibus ſe<g ref="char:EOLhyphen"/>cuti fuerant, ſibique miniſtrave<g ref="char:EOLhyphen"/>rant, tum aliis; id ſingulis dom daret, quod cujuſque diligentiam promeritam judicaret. Is cum haereditatem recuſaret, neque tamen proptereà diſtribuendorum legato<g ref="char:EOLhyphen"/>rum onus ſuſcipere nollet;</hi> Ro<g ref="char:EOLhyphen"/>gavit <hi>eum</hi> Polus, <hi>quod etiam in ipſo teſtamento perſcribi voluit, ut aliquam ſaltem bonorum ſuorum partem ſibi ſumeret, quae tanquam aliquod veteris ac perpetuoe inter
+  <pb n="105" facs="tcp:66307:53"/>ipſos conjunctionis pignus ac monu<g ref="char:EOLhyphen"/>mentum extaret. Hoc ille planè renuit, ſeque jam inde ab initio cùm in ejus ſe familiaritatem con<g ref="char:EOLhyphen"/>tulerat, longè alterius generis bona ſecutum, ex eiſque plurima aſſecu<g ref="char:EOLhyphen"/>tum eſſe reſpondit. Atque ita cum haeres ſcriptus eſſet, nihil ex haere<g ref="char:EOLhyphen"/>ditate capere voluit, praeter duos libellos, ex quibus</hi> Polus <hi>deum pre<g ref="char:EOLhyphen"/>cari ſolitus erat,</hi> Breviarium <hi>vo<g ref="char:EOLhyphen"/>camus &amp;</hi> Diurnale. <hi>Atque hic quidem eſt</hi> Priulus <hi>ille, quem ini<g ref="char:EOLhyphen"/>tio diximus,</hi> anno 1532. <hi>Patavii in arctiſſimam</hi> Poli <hi>conſuetudinem veniſſe, neque ab ejus lutere un<g ref="char:EOLhyphen"/>quam, ex eo tempore, diſceſſiſſe, ſed omnium itinerum, legationum, laborum comitem ac ſocium: ſtudiorum item conſiliorum ac omnium periculo<g ref="char:EOLhyphen"/>rum participem fuiſſe, ut neque ullis ho<g ref="char:EOLhyphen"/>noribus,
+  <pb n="106" facs="tcp:66307:54"/>nec dignitate, quae illi, cùm in patriâ ſuá in quâ ſumma est ejus familiae nobilitas atque ampli<g ref="char:EOLhyphen"/>tudo; tum</hi> Romae, <hi>non ſemel pro<g ref="char:EOLhyphen"/>ponebatur, a</hi> Poli <hi>conſuetudine avelli poſſet, quam omnibus divitiis omni<g ref="char:EOLhyphen"/>que dignitati facilè anteponebat. Poſt ejus mortem</hi> xx <hi>totos menſes, qui<g ref="char:EOLhyphen"/>bus ille ſuperſtes vixit, in colligen<g ref="char:EOLhyphen"/>dis magno labore ejus rebus, quae va<g ref="char:EOLhyphen"/>riis in locis disjectae erant, &amp; in illis, ſummâ cum fide, diſtribuendis conſumpſit.</hi>
+                              </p>
+                           </div>
+                           <div xml:lang="eng" type="version">
+                              <head>Engliſhed thus.</head>
+                              <p>But I am verily perſwaded, that I ſhal herein repreſent to the eyes and underſtanding of the reader, an image poliſht and adorn'd with all thoſe vertues, which can fal within the capa<g ref="char:EOLhyphen"/>citie
+  <pb n="107" facs="tcp:66307:54"/>of a true Chriſtian ſpirit. The divine Goodnes, with ſo large an effuſion of grace, had enrich't the ſoul of this <hi>Reginaldus Polus.</hi> Whoſe rare and excel<g ref="char:EOLhyphen"/>lent vertues were ſo eminently conſpicuous over al <hi>Europe,</hi> that many, who never ſaw him, cheriſht the very thoughts, ima<g ref="char:EOLhyphen"/>gination, and name of him. Nay even now any mention or commemoration of him is very pleaſant and delightful a<g ref="char:EOLhyphen"/>mong al perſons of honor or worth: and among Princes his memory is ſtil ſo gratious and prevalent, that to have bin of his family onely, is a ſufficient commendation and entrance in<g ref="char:EOLhyphen"/>to their favor. His peaceable mildnes and clemency was ſo ex<g ref="char:EOLhyphen"/>traordinary,
+  <pb n="108" facs="tcp:66307:55"/>that howſoever offended he remitted al injuries, never complotting or meditating any ſort of revenge. At <hi>Vi<g ref="char:EOLhyphen"/>terbo</hi> he cauſed three <hi>Italian</hi> con<g ref="char:EOLhyphen"/>ſpirers of his death to be deli<g ref="char:EOLhyphen"/>ver'd out of priſon. Whilſt he was at <hi>Capranica</hi> retir'd to ſhun the infeſting heats of the ſummer, two <hi>Engliſh</hi> men ſent by King <hi>Henry</hi> to diſpatch him, he would by no means ſuffer to be put to death, alleging how the injury pertain'd to him alone, as Judge and Partie: Nor would he permit any other puniſhment to paſs upon them, ſave only the condemnation to the Gallies, for ſome few dayes. His va<g ref="char:EOLhyphen"/>rious afflictions, misfortunes and calamities he ever ſuſtain'd with
+  <pb n="109" facs="tcp:66307:55"/>ſo great a courage, and noble conſtancie, that certainly this age has not afforded his equal. To this purpoſe I could pro<g ref="char:EOLhyphen"/>duce many examples, but let this alone for the preſent ſuf<g ref="char:EOLhyphen"/>fice. When on a certain day, he had receiv'd ſeveral letters out of <hi>France,</hi> and many other remote parts, and order'd me to prepare their anſwers: ſo foon as they were collected in<g ref="char:EOLhyphen"/>to diſtinct pacquets, perceiving ſome in <hi>Engliſh,</hi> I told him, I hope, Sir, you expect not that I ſhould anſwer theſe, as being a ſtranger to the language. He, not the leaſt chang'd in looks or colour inſtantly replyed; I wiſh you could read and underſtand them both at once, for they
+  <pb n="110" facs="tcp:66307:56"/>import joyful news and tidings. Withat impatient in my itching deſire, I humbly beg'd, that I might participate. I alwaies thought my ſelf, ſays he, the ſon of a woman as ſingular and eminent for her vertues, as extraction: in which reſpect, I have often rendred thanks to the <hi>divine Goodnes.</hi> But now I find theſe former qualities ſtrang<g ref="char:EOLhyphen"/>ly dignifyed with a noble van<g ref="char:EOLhyphen"/>tage of quite another and higher nature, by her being crown'd &amp; adorn'd with the glory of a happy martyrdom. For whilſt ſhe conſtantly retain'd her Ca<g ref="char:EOLhyphen"/>tholique faith and religion, im<g ref="char:EOLhyphen"/>movable by any threats or per<g ref="char:EOLhyphen"/>ſwaſions, ſhe loſt her head up<g ref="char:EOLhyphen"/>on the Scaffold, at the age of
+  <pb n="111" facs="tcp:66307:56"/>
+                                 <hi>ſeventy Years,</hi> receiving this re<g ref="char:EOLhyphen"/>ward, for the great pains taken in the education of his only daughter, from King <hi>Harry</hi> the Father. When, I amaz'd with ſudden horror and aſtoniſht, ſtartled at this relation; be of good courage, ſayes he, my Mo<g ref="char:EOLhyphen"/>ther has happily encreaſt the number of our patrons and ad<g ref="char:EOLhyphen"/>vocats in heaven. After this, re<g ref="char:EOLhyphen"/>tiring for ſome few moments to a Chapel, where his uſe was to pray, he ſtrait appears among us again, with the ſame former looks and chearful countenance. Neither did he act this ſtrange unexpected part out of a tepid indifferency of affection, which he had for her, or ſhe for him
+  <pb n="112" facs="tcp:66307:57"/>(which was quite contrary in both) but out of a magnani<g ref="char:EOLhyphen"/>mous conſtancy not expos'd or obnoxious to theſe violent at<g ref="char:EOLhyphen"/>taques and cruel injuries of for<g ref="char:EOLhyphen"/>tune. No other alteration was perceiv'd by us in him, at the ſad doleful meſſage of the death of his <hi>eldeſt Brother,</hi> who with two other of his neareſt allies, loſt their heads upon the Scaf<g ref="char:EOLhyphen"/>fold by the <hi>Kings</hi> order, for con<g ref="char:EOLhyphen"/>ſtantly adhearing to their reli<g ref="char:EOLhyphen"/>gion.</p>
+                              <p>Theſe, and many other afflicti<g ref="char:EOLhyphen"/>ons, calamities and injuries of di<g ref="char:EOLhyphen"/>vers ſorts he ſuffered with the ſame perpetualy inalterable con<g ref="char:EOLhyphen"/>ſtancy. And as Fortun could not terrify him with her frowns;
+  <pb n="113" facs="tcp:66307:57"/>ſo ſhe could not ſeduce him with her ſmiles. His affairs running proſperouſly ſomtimes beyond expectation could ne<g ref="char:EOLhyphen"/>ver puff him up beyond his accuſtom'd ſtation; nor turning retrograde on the contrary cauſe in him the leaſt dejection. So that his ſeeming poverty in riches; and his great ſatis<g ref="char:EOLhyphen"/>faction in poverty were both alike commendable.</p>
+                              <p>Three dayes before he dyed (of his one accord without a<g ref="char:EOLhyphen"/>ny other admoniſhment) he deſir'd to have the <hi>Sacra<g ref="char:EOLhyphen"/>ment of <hi>Extreme-Vnction,</hi>
+                                 </hi> retaining his ſpeech, ſenſes and underſtanding entire to the very laſt moment. He ren<g ref="char:EOLhyphen"/>dred
+  <pb n="114" facs="tcp:66307:58"/>up his ſpirit in that gen<g ref="char:EOLhyphen"/>tle, quiet and placide man<g ref="char:EOLhyphen"/>ner, that his face, viſage, faſhion and habit of his whole body repreſented the poſture of one ſleeping, rather than dead. That which ſeems mar<g ref="char:EOLhyphen"/>velous to ſome, is that his <hi>Queen,</hi> and he ſhould expire both within the compas of the ſame natural day. In his laſt Will and Teſtament he or<g ref="char:EOLhyphen"/>dained <hi>Aloyſio Priuli</hi> a noble man of <hi>Venice,</hi> whom he moſt ſingularly affected, the entire heire of whatſoever he poſ<g ref="char:EOLhyphen"/>ſeſt. To whoſe wil and pleaſure he freely tranſmitted the diſpoſal of certain legacies, gifts and rewards to ſuch,
+  <pb n="115" facs="tcp:66307:58"/>who had followd him out of forrein parts, and others of his attendants, according as he thought the merit and diligence of each perſon proportionaly required. Whereas this noble <hi>Venetian</hi> abſolutely refus'd the total inheritance: he beg'd and entreated of him the ac<g ref="char:EOLhyphen"/>ceptance onely of ſome part, which might appear, as a laſting pledge and monument of their ever inviolated love and friendſhip. This alſo he utterly renounc't, replying, that when he firſt courted and in<g ref="char:EOLhyphen"/>ſinuated himſelf into his fa<g ref="char:EOLhyphen"/>miliarity, he propos'd in his minde an other ſort of rich<g ref="char:EOLhyphen"/>es, goods and treaſure, with
+  <pb n="116" facs="tcp:66307:59"/>which now he thought himſelf a<g ref="char:EOLhyphen"/>bundantly gratifyed. Thus he the total heir of ſo conſide<g ref="char:EOLhyphen"/>rable an <hi>inheritance</hi> accepted of nothing, but only two <hi>prayer-books,</hi> renderd precious in his thoughts by the frequent u<g ref="char:EOLhyphen"/>ſage of <hi>Reginaldus Polus,</hi> where<g ref="char:EOLhyphen"/>of the one was cal'd the <hi>Ro<g ref="char:EOLhyphen"/>man Breviary,</hi> and the other the <hi>Diurnal</hi> belonging to it. This is that <hi>Aloyſio Priuli,</hi> who in the year 1532 at <hi>Padua</hi> contracted that individual and exemplary familiarity and friendſhip with <hi>Polus,</hi> which never afterward admitted of any ſeparation in adverſity or proſperity. He was a con<g ref="char:EOLhyphen"/>ſtant companion in all his jour<g ref="char:EOLhyphen"/>neys
+  <pb n="117" facs="tcp:66307:59"/>by Sea and Land, in his tedious and dangerous em<g ref="char:EOLhyphen"/>baſſies, and al other toyles and troubles: ſo unanimouſly participating alſo of al his in<g ref="char:EOLhyphen"/>tentions, purpoſes, ſtudies and counſels, that he was ſenſible of no titles, honors, digni<g ref="char:EOLhyphen"/>ties, which were open and obvious in his own Country, by reaſon of the great no<g ref="char:EOLhyphen"/>bility and prerogative of his <hi>family:</hi> nor could <hi>Rome</hi> her ſelf with her dazling purple and other allurements ever ſeduce him from this habitual ſociety and enjoyment of his friend, a hapines which he ſo ineſtimably valew'd above al others: and whom he ſur<g ref="char:EOLhyphen"/>viv'd
+  <pb n="118" facs="tcp:66307:60"/>only the ſpace of <hi>twenty months,</hi> which interval of time he wholy employ'd in the collection of thoſe goods, which were diſperſt in ſeveral Coun<g ref="char:EOLhyphen"/>treys, and in the <hi>juſt and equal-diſtribution of them.</hi>
+                              </p>
+                              <p>This memorable friendſhip of <hi>Reginaldus Polus</hi> and <hi>Aloyſius Priulus</hi> contracted between per<g ref="char:EOLhyphen"/>ſons of ſo diſtant and diffe<g ref="char:EOLhyphen"/>rent Countreys, certainly ex<g ref="char:EOLhyphen"/>cels in al circumſtances, that of <hi>Laelius</hi> and <hi>Scipio,</hi> or what e<g ref="char:EOLhyphen"/>ver other examples, the an<g ref="char:EOLhyphen"/>tient <hi>Grece</hi> or <hi>Rome</hi> or the <hi>Bar<g ref="char:EOLhyphen"/>barians</hi> (as they cal them) could ever produce. For that religion which moſt enriches our minds with the beſt Vertues,
+  <pb n="119" facs="tcp:66307:60"/>and deveſts them of uſurping paſſions, renders them the moſt ſuſceptible of this rare and divine quality. Which therefore conſequently muſt alwayes be among the moſt excelent <hi>Chriſtians.</hi> The <hi>Phi<g ref="char:EOLhyphen"/>loſophers</hi> and their followers had the ſublime vertues of this nature in ſubtile ſpecula<g ref="char:EOLhyphen"/>tion onely, which were left for others to put into real exerciſe and practiſe.</p>
+                           </div>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>I have at preſent ſuffici<g ref="char:EOLhyphen"/>ently, as I hope, refuted ſome perverſe Chroniclers a<g ref="char:EOLhyphen"/>mong us, enemys, as we ſee, to truth, honor, and the juſt reſpect due to royal families: and have ſhown how requi<g ref="char:EOLhyphen"/>ſit
+<pb n="120" facs="tcp:66307:61"/>it is for theſe many years, to look abroad, that we may underſtand any truth at home of this kind. The Teſtimo<g ref="char:EOLhyphen"/>nies produc't are very authen<g ref="char:EOLhyphen"/>tique. Which I have the ra<g ref="char:EOLhyphen"/>ther encreaſt, becauſe nothing, methinks, can be ſaid too much of ſo Rare, Divine and Princely a ſubject. How<g ref="char:EOLhyphen"/>ever I ſhall now ſuperſede, omitting many Authors of ex<g ref="char:EOLhyphen"/>celent account, as the French Preſident <hi>Thuanus,</hi> and the fa<g ref="char:EOLhyphen"/>mous <hi>Pallavicini,</hi> with many other <hi>Italian</hi> Writers. Who generaly in their relations, very much extol and magnify the power of King <hi>Harry,</hi> able to revive in <hi>Italie</hi> a cuſtom
+<pb n="121" facs="tcp:66307:61"/>aboliſht ever ſince <hi>Marius, Sulla</hi> and <hi>Marc-Antony,</hi> in proſcribing a great <hi>Roman</hi> ſenator in <hi>Rome</hi> it ſelf, as wel as other parts of the world. Among theſe Authors, which I muſt advertiſe you, you will often find <hi>il Cardinal d' Inghiltierra</hi> mentioned; which you muſt have a care, not to take for our rich, fat Prelat the <hi>Cardinal Wolſey.</hi> Otherwiſe your miſtake will be very groſſe. For this <hi>Reginaldus Polus,</hi> who is thereby ſignified, and He were as different in quality and worth, as they were in extraction; the vaſt, immenſe ambition of the one, almoſt equalizing the moſt Chriſtian
+<pb n="122" facs="tcp:66307:62"/>humility of the other, and therefore vainly coveting and courting with an inſolent preſumption that <hi>Papacy,</hi> which the other with ſo generous a magnanimitie refus'd.</p>
+               <p>Now, as I ſuppoſe, I have fully ſatisfy'd my engagement, though perchance not the deſire or expectation of our obliging friend. What the poſtſcript of your laſt letter ſignifies, concerning ſome verſification on this ſubject, was never included in my promiſe. Yet to be as complyant, as I can, I ſhal ſend here two <hi>Epigrams:</hi> in the former of which, could I diſpenſe with
+<pb n="123" facs="tcp:66307:62"/>my ſelf, from being ſerious, in ſo grave a ſubject, as the ſacred memory of this <hi>Cardinal,</hi> I could impoſe upon our friend, acting the jocular plagiary, and make my ſelf paſs for the author; being they ſeem ſo adapted to this noted Epitaph, <hi>Depo<g ref="char:EOLhyphen"/>ſitum Poli Cardinalis.</hi> But I can aſſure you, they were made above a thouſand years ago, as I ſhal make it ap<g ref="char:EOLhyphen"/>pear at our next meeting. As for the latter, they are excelent verſes, made on the picture of this great perſon, drawn by <hi>Titian,</hi> and now in the <hi>Farneſian</hi> Palace. It would appear almoſt a madnes in me, to write on the ſame
+<pb n="124" facs="tcp:66307:63"/>ſubject, after <hi>Marcus Antonius Flaminius</hi> the celebrated Au<g ref="char:EOLhyphen"/>thor. I ſhal onely therefore venture, for ſatisfaction ſake in this kind, to ſend ſome recover'd fragments of a <hi>Poem,</hi> dedicated to the honor of the <hi>Heroical Prince</hi> of this age, during the <hi>Dutch Wars,</hi> and to be prefixt before a meteo<g ref="char:EOLhyphen"/>rique treatiſe, not publiſh't, by reaſon of the late rogueries, ſet here artificialy on foot a<g ref="char:EOLhyphen"/>mong us.</p>
+               <div type="poems">
+                  <div n="1" type="epigram">
+                     <pb n="125" facs="tcp:66307:63"/>
+                     <head>Epigrama primum.</head>
+                     <lg>
+                        <l>F<g ref="char:V">Ʋ</g>nctus honorato ſienio, plenuſque dierum</l>
+                        <l>Evocor ad ſuperos: pignora quid gemitis;</l>
+                        <l>Reddere Depoſitum lex eſt: ideoque petenti</l>
+                        <l>Corpus humo, manes reſtituoque <hi>Polo.</hi>
+                        </l>
+                        <l>Sumite quod veſtrum eſt, inſignia, ju<g ref="char:EOLhyphen"/>ra, parentis</l>
+                        <l>Scilicet &amp; titulos: plus ſatis <gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>r<g ref="char:EOLhyphen"/>na mihi haec.</l>
+                     </lg>
+                  </div>
+                  <div n="2" type="epigram">
+                     <pb n="126" facs="tcp:66307:64"/>
+                     <head>Epigrama ſecundum</head>
+                     <lg>
+                        <l>SIvelut egregiae picturae, maxime <hi>Pole,</hi> Eſt expreſſa tui corporis effigies:</l>
+                        <l>Sic divina tuae potuiſſet mentis imago Pingi, nil oculi pulchrius aſpicerent.</l>
+                     </lg>
+                  </div>
+                  <div type="poem">
+                     <lg>
+                        <l>MArtia progenies <hi>Caroli,</hi> quem <hi>Gallica</hi> nympha</l>
+                        <l>Magnorum ſoboles regum, conjux<expan>
+                              <am>
+                                 <g ref="char:abque"/>
+                              </am>
+                              <ex>que</ex>
+                           </expan> ſoror<expan>
+                              <am>
+                                 <g ref="char:abque"/>
+                              </am>
+                              <ex>que</ex>
+                           </expan>
+                        </l>
+                        <l>Et formoſa parens peperit felicibus aſtris;</l>
+                        <l>Quique tuum tantis animum natalibus aequas;</l>
+                        <l>Cum tua tot cupiant vates praeconiae laudis</l>
+                        <pb n="127" facs="tcp:66307:64"/>
+                        <l>Dicere, victuris necnon inſcribere chartis;</l>
+                        <l>Hactenus baud facile inceptis timor ob<g ref="char:EOLhyphen"/>ſtitit auſis.</l>
+                        <l>Me traxit non unus amor, vel cauſa canendi.</l>
+                        <l>Nam cum perjuri jam factio dira <hi>Se<g ref="char:EOLhyphen"/>natus.</hi>
+                        </l>
+                        <l>Factio non omnem non execranda per aevum,</l>
+                        <l>Cum ſuperis &amp; patre tuo ſibi bella gerenda</l>
+                        <l>Cenſuit, &amp; victo leges imponere caelo:</l>
+                        <l>Te profugum ſedes noſtris habitata <hi>Ca<g ref="char:EOLhyphen"/>maenis</hi>
+                        </l>
+                        <l>Excipit, &amp; primae docuit praeludia famae.</l>
+                        <pb n="128" facs="tcp:66307:65"/>
+                        <l>Hic primum conſcendere equos, frae<g ref="char:EOLhyphen"/>nare lupatis</l>
+                        <l>Diſcis, &amp; attonitos curſu proevertere cervos;</l>
+                        <l>At<expan>
+                              <am>
+                                 <g ref="char:abque"/>
+                              </am>
+                              <ex>que</ex>
+                           </expan> alia exerces belli ſimulacra futuri,</l>
+                        <l>Cujus te poſthac docuit <hi>Turennius</hi> arteis,</l>
+                        <l>Exemplo &amp; monitis magnus <hi>Turennius</hi> inquam,</l>
+                        <l>Sic ut jam tanto vix ceſſeris ipſe ma<g ref="char:EOLhyphen"/>giſtro.</l>
+                        <l>Nam tibi cum fuerit teneris maturius annis</l>
+                        <l>Ingenium &amp; robur, vix puber ad arma vocatus</l>
+                        <pb n="129" facs="tcp:66307:65"/>
+                        <l>Non finis has tacita dotes torpere ſub umbra;</l>
+                        <l>Principibus licet hos mores indulſerit oelas.</l>
+                        <l>Si memorare juvat primornm elementa laborum</l>
+                        <l>Ac veluti puerile decus, quis fortius unquam</l>
+                        <l>Aggreſſus fuerit, repulitve audacior hoſtem?</l>
+                        <l>Signa magis prompte anteivit, ſerove reliquit</l>
+                        <l>Sub dio aeſtivos ſoles, ac frigora paſſus?</l>
+                        <l>
+                           <g ref="char:V">Ʋ</g>nde tibi nullum imperium <hi>Turennius</hi> olim</l>
+                        <pb n="130" facs="tcp:66307:66"/>
+                        <l>Detraxit, tanti ſemper ſecurus alumni!</l>
+                        <l>At tua non ſuperat civilem bellica lau<g ref="char:EOLhyphen"/>rum:</l>
+                        <l>Non hinc aut illinc debentur praemia laudis</l>
+                        <l>Inferiora tibi: Cum tu bellique do<g ref="char:EOLhyphen"/>mique</l>
+                        <l>Idem ſemper eras; eadem conſtantia vultus</l>
+                        <l>Atque animi laeta ſorte adverſaque renidens.</l>
+                        <l>Quo ſumis vultu faſceis, deponis eodem.</l>
+                        <l>Nil nova miraris raptus popularibus auris,</l>
+                        <pb n="131" facs="tcp:66307:66"/>
+                        <l>Immemor haud unquam morum vitae<g ref="char:EOLhyphen"/>que paternae:</l>
+                        <l>Nec te fixa manent, aut plebiſcita refixa.</l>
+                        <l>Libertas, legeſque placent; menſura<g ref="char:EOLhyphen"/>que recti</l>
+                        <l>Non tibi ſunt vires: ſcelerum victoria merces</l>
+                        <l>Parta, tibi eſt odio: licet hi jam ſae<g ref="char:EOLhyphen"/>cula noſtra</l>
+                        <l>Infamant mores: ut dextera fortis in armis,</l>
+                        <l>Promiſſis ſic firma ſides: Caſtriſque foroque</l>
+                        <l>Juſtitia &amp; pietas una comitantur u<g ref="char:EOLhyphen"/>bique.</l>
+                        <pb n="132" facs="tcp:66307:67"/>
+                        <l>Hic tua non virtus veteris cum laude magiſtri</l>
+                        <l>Subſtitit ingenti: ſed me per inhoſpita ponti</l>
+                        <l>Impatiens ſecum abreptat, non flucti<g ref="char:EOLhyphen"/>bus iſtis</l>
+                        <l>Aſſuetum, ac ultra timidum contendere litus</l>
+                     </lg>
+                     <milestone type="tcpmilestone" unit="unspecified" rend="hr"/>
+                     <lg>
+                        <l>Cum jam concurrere noſtrae</l>
+                        <l>Auſa fuit Batavum claſſis: non acrius unquam</l>
+                        <l>Pugnatum eſt: tamen hinc ſpolia ampla &amp; <hi>opima</hi> tuliſti</l>
+                        <pb n="133" facs="tcp:66307:67"/>
+                        <l>
+                           <hi>Summe Ducum,</hi> patriae decus admi<g ref="char:EOLhyphen"/>rabile noſtrae</l>
+                        <l>E pelago primus: nam cum Praetoria puppis</l>
+                        <l>
+                           <hi>Opdamii</hi> tecum congreſſa eſt; prote<g ref="char:EOLhyphen"/>nus ipſam</l>
+                        <l>Ignivomis globulis attollis in aethera, quamvis</l>
+                        <l>Ingenti ſub mole viri, ſub mole ca<g ref="char:EOLhyphen"/>rinae</l>
+                        <l>Ingemuit pontus. Sic formidare coactus</l>
+                        <l>Oceanum <hi>Batavus,</hi> ſua regna antiqua reliquit,</l>
+                        <l>Ac te ſanguineis urgentem fugit in un<g ref="char:EOLhyphen"/>dis.</l>
+                        <pb n="134" facs="tcp:66307:68"/>
+                        <l>Ah tamen haud parvo ſtetit haec victo<g ref="char:EOLhyphen"/>ria nobis:</l>
+                        <l>Nam quam lecta manus prope te juve<g ref="char:EOLhyphen"/>numque virumque</l>
+                        <l>Concidit! illa tuis tam digna natali<g ref="char:EOLhyphen"/>bus ora</l>
+                        <l>Ah viſu indignum! ſanie ſunt ſparſa tuorum:</l>
+                        <l>Non autem domitus <hi>Batavus,</hi> ſed victus abibat:</l>
+                        <l>Major colligitur claſſis poſt damna, priori.</l>
+                        <l>Nam quibus antiquus, novus ac vix ſufficit orbis,</l>
+                        <pb n="135" facs="tcp:66307:68"/>
+                        <l>Sic puduit vinci, in ponto dare terga coactis.</l>
+                        <l>Armatas igitur propriis e ſedibus urbeis</l>
+                        <l>Emittunt pelago, ventoque aeſtuque ſe<g ref="char:EOLhyphen"/>cundo.</l>
+                        <l>Navibus opprimitur pontus: tot car<g ref="char:EOLhyphen"/>baſa venti</l>
+                        <l>Vix ſimul impellunt. Jam nobis for<g ref="char:EOLhyphen"/>tius inſtant</l>
+                        <l>Robore nec numero paribus: tum flecte<g ref="char:EOLhyphen"/>re gyro</l>
+                        <l>Incipimus laceras puppeis: Et jam tua navis</l>
+                        <l>Strage virum cumulata fere ſubſidit in undis,</l>
+                        <pb n="136" facs="tcp:66307:69"/>
+                        <l>Vela cadunt, pinus fracta eſt: At non tua virtus</l>
+                        <l>Fracta fuit; ſed enim mediis excelſa periclis</l>
+                        <l>Clarius emicuit, revocatque in milite vireis:</l>
+                        <l>Qualis, ubi obductum picea caligine caelum</l>
+                        <l>Cum premitur, Coro Boreaque agitante procellas</l>
+                        <l>Per mare, per terras; ſoboles ſi forte refulſit</l>
+                        <l>
+                           <hi>Ledaea,</hi> aſſumit faciem natura priorem,</l>
+                        <l>Laetior &amp; ridet, ſubductis nubibus aether.</l>
+                        <pb n="137" facs="tcp:66307:69"/>
+                        <l>Jam cocunt naves, ubi te <hi>Vexilla</hi> fe<g ref="char:EOLhyphen"/>rentem</l>
+                        <l>
+                           <hi>Regia</hi> conſpiciunt, medios lapſumque per hoſteis.</l>
+                        <l>Nunc iterum redeunt animi, paulo ante ſopiti,</l>
+                        <l>Atque irae, quas tu regalia lumina torquens</l>
+                        <l>Accendis; nunquam tanta eſt data co<g ref="char:EOLhyphen"/>pia famae</l>
+                        <l>Caeruleis campis, virtusque exercita u<g ref="char:EOLhyphen"/>trinque;</l>
+                        <l>
+                           <hi>Belga</hi> licet primus vireis animoſque re<g ref="char:EOLhyphen"/>mittens</l>
+                        <pb n="138" facs="tcp:66307:70"/>
+                        <l>Non tua laethiferae jam tandem fulmina claſſis</l>
+                        <l>Suſtinuit, ceſſitque mari, rurſuſque ſub<g ref="char:EOLhyphen"/>egit</l>
+                        <l>Hos contemptores regum tua regia claſſis.</l>
+                        <l>O toties invicte malis, terra<expan>
+                              <am>
+                                 <g ref="char:abque"/>
+                              </am>
+                              <ex>que</ex>
+                           </expan> mari<expan>
+                              <am>
+                                 <g ref="char:abque"/>
+                              </am>
+                              <ex>que</ex>
+                           </expan>
+                        </l>
+                        <l>Egregium o gentis <hi>Britonum</hi> per ſaecula nomen,</l>
+                        <l>Spesque tui generis, noſtri &amp; tutela Profundi</l>
+                        <l>Quandoquidem decus &amp; longe tibi ceſ<g ref="char:EOLhyphen"/>ſit avorum</l>
+                        <l>Gloria magnorum, patriaeque exempla paraſti</l>
+                        <pb n="139" facs="tcp:66307:70"/>
+                        <l>Virtutis, quae te ſummis <hi>Heroibus</hi> ae<g ref="char:EOLhyphen"/>quat;</l>
+                        <l>Parce pio tandem capiti, &amp; ſic proſ<g ref="char:EOLhyphen"/>pice nobis:</l>
+                        <l>Communem belli ſortem reverere, nec ultra</l>
+                        <l>Prodigus heu animae magnae, patriaeque ſalutis</l>
+                        <l>Atque tuae, tantis ita te committe pe<g ref="char:EOLhyphen"/>riclis.</l>
+                        <l>Cum vero his pridem terris <hi>Aſtraea</hi> reducta</l>
+                        <l>Conſiliis, placidoque tui moderamine fratris</l>
+                        <l>Otia ſecum affert, curarum pondere pectus</l>
+                        <pb n="140" facs="tcp:66307:71"/>
+                        <l>Expediens, hoc pacis opas tibe ſome, meamque</l>
+                        <l>
+                           <hi>Uranien</hi> veſtris ſamulam penetralibus altis</l>
+                        <l>Admitte: affinis tua mens caeleſtibus aſtris,</l>
+                        <l>Satque datum pelago &amp; terris: ne ſi<g ref="char:EOLhyphen"/>dera differ</l>
+                        <l>Amplius ac caelos: En haec te lucida<g ref="char:EOLhyphen"/>late</l>
+                        <l>Aetheris immenſi ſpatia, aſtrorumque meatus,</l>
+                        <l>Atque ſitus, varioſque obitus, ortuſque docebit.</l>
+                        <l>Aurea quinetiam ſua limina pandit <hi>Olympus,</hi>
+                        </l>
+                        <pb n="141" facs="tcp:66307:71"/>
+                        <l>Quae tibi pulcher honos pridem pietaſ<g ref="char:EOLhyphen"/>que recluſit.</l>
+                        <l>Reſpice ſam qua parte mices; ſeu <hi>Sig<g ref="char:EOLhyphen"/>nifer</hi> axe</l>
+                        <l>Arriſit ru<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ilo, magis aut temone <hi>Tri<g ref="char:EOLhyphen"/>ones,</hi>
+                        </l>
+                        <l>Qua <gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>unquam poteris noſtris occumbere terris,</l>
+                        <l>Invenies virtute viam: ſed pauperis umbrae</l>
+                        <l>Quo feror e tecto, quae me caligine celat</l>
+                        <l>Secluſum vulgo? quo me rapit ardor amantem</l>
+                        <l>
+                           <hi>O Dux magne</hi> tui? cujus perſtringere laudes</l>
+                        <pb n="142" facs="tcp:66307:72"/>
+                        <l>Hic volui tantum: nos poſthac plura canemus,</l>
+                        <l>Quaeque meas coluit muſas, florente ja<g ref="char:EOLhyphen"/>venta,</l>
+                        <l>Inclyta clarorum genitrix <hi>Limneſtria</hi> vatum,</l>
+                        <l>Mecum una aeternis condet tua nomina <hi>Faſtis.</hi>
+                        </l>
+                     </lg>
+                  </div>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:66307:72"/>
+         </div>
+      </body>
+   </text>
+</TEI>
